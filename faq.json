@@ -221,6 +221,16 @@
     "type": "faq"
   },
   {
+    "q_en": "Can I publish my own poem?",
+    "q_bn": "আমি কি নিজের কবিতা প্রকাশ করতে পারি?",
+    "a_en": "Yes! Go to Dashboard → Send Your Poem.",
+    "a_bn": "হ্যাঁ! Dashboard → Send Your Poem এ যান।",
+    "keywords": ["publish poem", "send poem", "my poem", "কবিতা"],
+    "type": "intent",
+    "intent": "poem_publish",
+    "actionKey": "open_send_poem"
+  },
+  {
     "q_en": "How long does it take to publish my poem?",
     "q_bn": "কবিতা প্রকাশ হতে কত সময় লাগে?",
     "a_en": "It usually takes 2 to 3 days to review and publish your poem after submission.",
