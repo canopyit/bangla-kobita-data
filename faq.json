@@ -55,6 +55,14 @@
     "keywords": ["morning", "সকাল"],
     "type": "chat"
   },
+   {
+    "q_en": "Good evening",
+    "q_bn": "শুভ সন্ধ্যা",
+    "a_en": "Good evening ☀️ Enjoy some beautiful poetry today!",
+    "a_bn": "শুভ সন্ধ্যা ☀️ আজ সুন্দর কিছু কবিতা উপভোগ করুন!",
+    "keywords": ["evening", "সন্ধ্যা"],
+    "type": "chat"
+  },
   {
     "q_en": "Thank you",
     "q_bn": "ধন্যবাদ",
@@ -188,13 +196,14 @@
     "intent": "share"
   },
   {
-    "q_en": "how_share_app",
-    "q_bn": "কিভাবে অ্যাপ শেয়ার করবো",
-    "a_en": "Go to Share → Choose App → Send Play Store link via WhatsApp or Instagram.",
-    "a_bn": "Share অপশনে গিয়ে App নির্বাচন করুন → WhatsApp বা Instagram-এ লিংক পাঠান।",
-    "keywords": ["how share app", "share app", "অ্যাপ শেয়ার"],
-    "type": "faq"
-  },
+  "q_en": "share_app",
+  "q_bn": "অ্যাপ শেয়ার",
+  "a_en": "📱 You can share this app directly from inside the app.\n\nSteps:\n1. Go to Dashboard 🏠\n2. Tap on 'Share App' option\n3. Choose WhatsApp, Instagram, or any app\n4. Send to your friends\n\nNo need to copy any link manually 😊",
+  "a_bn": "📱 আপনি অ্যাপের ভিতর থেকেই শেয়ার করতে পারবেন।\n\nধাপসমূহ:\n1. Dashboard 🏠 এ যান\n2. 'Share App' অপশন চাপুন\n3. WhatsApp, Instagram বা যেকোনো অ্যাপ নির্বাচন করুন\n4. বন্ধুদের পাঠান\n\nকোনো লিংক কপি করার দরকার নেই 😊",
+  "keywords": ["app", "অ্যাপ", "share app"],
+  "type": "action",
+  "intent": "share"
+},
   {
     "q_en": "how_share_poem",
     "q_bn": "কিভাবে কবিতা শেয়ার করবো",
