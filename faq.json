@@ -41,6 +41,7 @@
     "a_en": "Hello 👋 How can I help you today?",
     "a_bn": "হ্যালো 👋 আমি কিভাবে আপনাকে সাহায্য করতে পারি?",
     "keywords": ["hi", "hello", "hey", "হ্যালো"]
+    "type": "chat"
   },
   {
     "q_en": "Good morning",
@@ -48,6 +49,7 @@
     "a_en": "Good morning ☀️ Enjoy some beautiful poetry today!",
     "a_bn": "সুপ্রভাত ☀️ আজ সুন্দর কিছু কবিতা উপভোগ করুন!",
     "keywords": ["morning", "সকাল"]
+    "type": "chat"
   },
   {
     "q_en": "Thank you",
@@ -55,6 +57,7 @@
     "a_en": "You're most welcome 😊",
     "a_bn": "স্বাগতম 😊",
     "keywords": ["thanks", "thank you", "ধন্যবাদ"]
+    "type": "chat"
   },
   {
     "q_en": "Ok",
@@ -62,6 +65,7 @@
     "a_en": "👍 Got it! Let me know if you need anything.",
     "a_bn": "👍 ঠিক আছে! কিছু লাগলে জানাবেন।",
     "keywords": ["ok", "okay", "ঠিক"]
+    "type": "chat"
   },
 
   {
@@ -86,6 +90,7 @@
     "a_en": "I'm your Bangla Kobita assistant 🤖",
     "a_bn": "আমি আপনার বাংলা কবিতা সহকারী 🤖",
     "keywords": ["who", "bot", "কে"]
+    "type": "chat"
   },
 
   {
@@ -94,6 +99,7 @@
     "a_en": "Interesting 😊 First tell me your gender.",
     "a_bn": "মজার প্রশ্ন 😊 আগে আপনি বলুন আপনার লিঙ্গ কি?",
     "keywords": ["gender", "boy", "girl", "লিঙ্গ"]
+    "type": "chat"
   },
   {
     "q_en": "I am a boy",
@@ -101,6 +107,7 @@
     "a_en": "Nice! Then imagine me as a friendly girl 😊",
     "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ মেয়ে ভাবতে পারেন 😊",
     "keywords": ["boy", "ছেলে"]
+    "type": "chat"
   },
   {
     "q_en": "I am a girl",
@@ -108,6 +115,7 @@
     "a_en": "Nice! Then imagine me as a friendly boy 😊",
     "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ ছেলে ভাবতে পারেন 😊",
     "keywords": ["girl", "মেয়ে"]
+    "type": "chat"
   },
 
   {
@@ -116,6 +124,7 @@
     "a_en": "Why did the poet bring a ladder? 😄 To reach high poetry!",
     "a_bn": "কবি সিঁড়ি নিয়ে কেন এসেছিল? 😄 উঁচু কবিতা ধরতে!",
     "keywords": ["joke", "funny", "মজা"]
+    "type": "chat"
   },
 
   {
@@ -124,6 +133,7 @@
     "a_en": "Try reading a poem 📖 It might inspire you!",
     "a_bn": "একটা কবিতা পড়ে দেখুন 📖 মন ভালো হতে পারে!",
     "keywords": ["bored", "বিরক্ত"]
+    "type": "chat"
   },
 
   {
@@ -132,6 +142,7 @@
     "a_en": "Please be polite 😊 I’m here to help you.",
     "a_bn": "দয়া করে ভদ্র থাকুন 😊 আমি সাহায্য করতে এখানে আছি।",
     "keywords": ["stupid", "idiot", "slang", "খারাপ"]
+    "type": "chat"
   },
 
   {
@@ -140,5 +151,6 @@
     "a_en": "Hmm 🤔 I didn’t understand. Try asking about poems or app features.",
     "a_bn": "বুঝতে পারিনি 🤔 কবিতা বা অ্যাপ সম্পর্কিত কিছু জিজ্ঞাসা করুন।",
     "keywords": []
+    "type": "chat"
   }
 ]
