@@ -39,7 +39,6 @@
     "keywords": ["share", "send", "শেয়ার"],
     "type": "faq"
   },
-
   {
     "q_en": "Hello",
     "q_bn": "হ্যালো",
@@ -72,7 +71,6 @@
     "keywords": ["ok", "okay", "ঠিক"],
     "type": "chat"
   },
-
   {
     "q_en": "Does the app work offline?",
     "q_bn": "অ্যাপ কি অফলাইনে কাজ করে?",
@@ -81,7 +79,6 @@
     "keywords": ["offline", "internet", "অফলাইন"],
     "type": "faq"
   },
-
   {
     "q_en": "How to report a bug?",
     "q_bn": "আমি কিভাবে সমস্যা রিপোর্ট করবো?",
@@ -90,7 +87,6 @@
     "keywords": ["bug", "issue", "problem", "সমস্যা"],
     "type": "faq"
   },
-
   {
     "q_en": "Who are you?",
     "q_bn": "তুমি কে?",
@@ -99,7 +95,6 @@
     "keywords": ["who", "bot", "কে"],
     "type": "chat"
   },
-
   {
     "q_en": "What is your gender?",
     "q_bn": "তোমার লিঙ্গ কি?",
@@ -124,7 +119,6 @@
     "keywords": ["girl", "মেয়ে"],
     "type": "chat"
   },
-
   {
     "q_en": "Tell me a joke",
     "q_bn": "একটা মজার কথা বলো",
@@ -133,7 +127,6 @@
     "keywords": ["joke", "funny", "মজা"],
     "type": "chat"
   },
-
   {
     "q_en": "I am bored",
     "q_bn": "আমি বিরক্ত",
@@ -142,7 +135,6 @@
     "keywords": ["bored", "বিরক্ত"],
     "type": "chat"
   },
-
   {
     "q_en": "Bad words",
     "q_bn": "খারাপ ভাষা",
@@ -151,7 +143,6 @@
     "keywords": ["stupid", "idiot", "slang", "খারাপ"],
     "type": "chat"
   },
-
   {
     "q_en": "Unknown",
     "q_bn": "বোঝা যায়নি",
@@ -159,7 +150,7 @@
     "a_bn": "বুঝতে পারিনি 🤔 কবিতা বা অ্যাপ সম্পর্কিত কিছু জিজ্ঞাসা করুন।",
     "keywords": [],
     "type": "chat"
-  }
+  },
   {
     "q_en": "share",
     "q_bn": "শেয়ার",
@@ -169,7 +160,6 @@
     "type": "intent",
     "intent": "share"
   },
-
   {
     "q_en": "share_poem",
     "q_bn": "কবিতা শেয়ার",
@@ -179,7 +169,6 @@
     "type": "action",
     "intent": "share"
   },
-
   {
     "q_en": "share_app",
     "q_bn": "অ্যাপ শেয়ার",
@@ -189,7 +178,6 @@
     "type": "action",
     "intent": "share"
   },
-
   {
     "q_en": "share_status",
     "q_bn": "স্ট্যাটাস কার্ড",
@@ -199,7 +187,6 @@
     "type": "action",
     "intent": "share"
   },
-
   {
     "q_en": "how_share_app",
     "q_bn": "কিভাবে অ্যাপ শেয়ার করবো",
@@ -208,7 +195,6 @@
     "keywords": ["how share app", "share app", "অ্যাপ শেয়ার"],
     "type": "faq"
   },
-
   {
     "q_en": "how_share_poem",
     "q_bn": "কিভাবে কবিতা শেয়ার করবো",
@@ -217,7 +203,6 @@
     "keywords": ["how share poem", "share poem", "কবিতা শেয়ার"],
     "type": "faq"
   },
-
   {
     "q_en": "how_share_status",
     "q_bn": "কিভাবে স্ট্যাটাস কার্ড শেয়ার করবো",
