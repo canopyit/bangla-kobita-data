@@ -1,0 +1,144 @@
+[
+  {
+    "q_en": "How do I save a favorite line?",
+    "q_bn": "আমি কিভাবে প্রিয় লাইন সংরক্ষণ করবো?",
+    "a_en": "Long press on any poem text, select your desired part, then tap ⭐ Save.",
+    "a_bn": "যেকোনো কবিতার উপর লং প্রেস করুন, পছন্দের অংশ সিলেক্ট করুন, তারপর ⭐ Save চাপুন।",
+    "keywords": ["save", "favorite", "line", "store", "সংরক্ষণ", "প্রিয়", "লাইন"]
+  },
+  {
+    "q_en": "How do I select text?",
+    "q_bn": "আমি কিভাবে টেক্সট সিলেক্ট করবো?",
+    "a_en": "Long press on the poem and drag the selection handles.",
+    "a_bn": "কবিতার উপর লং প্রেস করে সিলেকশন হ্যান্ডেল টেনে নিন।",
+    "keywords": ["select", "text", "highlight", "সিলেক্ট"]
+  },
+  {
+    "q_en": "Where are my saved lines?",
+    "q_bn": "আমার সংরক্ষিত লাইন কোথায় পাবো?",
+    "a_en": "Tap the ⭐ icon in the app bar to open Favorite Lines.",
+    "a_bn": "অ্যাপ বারের ⭐ আইকনে চাপ দিয়ে Favorite Lines খুলুন।",
+    "keywords": ["favorite", "saved", "where", "কোথায়"]
+  },
+  {
+    "q_en": "How to change font size?",
+    "q_bn": "ফন্ট সাইজ কিভাবে পরিবর্তন করবো?",
+    "a_en": "Double tap on the poem screen to zoom in/out.",
+    "a_bn": "কবিতার স্ক্রিনে ডাবল ট্যাপ করলে ফন্ট বড় বা ছোট হবে।",
+    "keywords": ["font", "size", "zoom", "ফন্ট"]
+  },
+  {
+    "q_en": "How to share text?",
+    "q_bn": "আমি কিভাবে শেয়ার করবো?",
+    "a_en": "Select text and tap Share option.",
+    "a_bn": "টেক্সট সিলেক্ট করে Share অপশন চাপুন।",
+    "keywords": ["share", "send", "শেয়ার"]
+  },
+
+  {
+    "q_en": "Hello",
+    "q_bn": "হ্যালো",
+    "a_en": "Hello 👋 How can I help you today?",
+    "a_bn": "হ্যালো 👋 আমি কিভাবে আপনাকে সাহায্য করতে পারি?",
+    "keywords": ["hi", "hello", "hey", "হ্যালো"]
+  },
+  {
+    "q_en": "Good morning",
+    "q_bn": "সুপ্রভাত",
+    "a_en": "Good morning ☀️ Enjoy some beautiful poetry today!",
+    "a_bn": "সুপ্রভাত ☀️ আজ সুন্দর কিছু কবিতা উপভোগ করুন!",
+    "keywords": ["morning", "সকাল"]
+  },
+  {
+    "q_en": "Thank you",
+    "q_bn": "ধন্যবাদ",
+    "a_en": "You're most welcome 😊",
+    "a_bn": "স্বাগতম 😊",
+    "keywords": ["thanks", "thank you", "ধন্যবাদ"]
+  },
+  {
+    "q_en": "Ok",
+    "q_bn": "ঠিক আছে",
+    "a_en": "👍 Got it! Let me know if you need anything.",
+    "a_bn": "👍 ঠিক আছে! কিছু লাগলে জানাবেন।",
+    "keywords": ["ok", "okay", "ঠিক"]
+  },
+
+  {
+    "q_en": "Does the app work offline?",
+    "q_bn": "অ্যাপ কি অফলাইনে কাজ করে?",
+    "a_en": "Yes, most features work offline, but updates need internet.",
+    "a_bn": "হ্যাঁ, বেশিরভাগ ফিচার অফলাইনে কাজ করে, তবে আপডেটের জন্য ইন্টারনেট দরকার।",
+    "keywords": ["offline", "internet", "অফলাইন"]
+  },
+
+  {
+    "q_en": "How to report a bug?",
+    "q_bn": "আমি কিভাবে সমস্যা রিপোর্ট করবো?",
+    "a_en": "Go to Help Center → Report Issue.",
+    "a_bn": "Help Center → Report Issue এ যান।",
+    "keywords": ["bug", "issue", "problem", "সমস্যা"]
+  },
+
+  {
+    "q_en": "Who are you?",
+    "q_bn": "তুমি কে?",
+    "a_en": "I'm your Bangla Kobita assistant 🤖",
+    "a_bn": "আমি আপনার বাংলা কবিতা সহকারী 🤖",
+    "keywords": ["who", "bot", "কে"]
+  },
+
+  {
+    "q_en": "What is your gender?",
+    "q_bn": "তোমার লিঙ্গ কি?",
+    "a_en": "Interesting 😊 First tell me your gender.",
+    "a_bn": "মজার প্রশ্ন 😊 আগে আপনি বলুন আপনার লিঙ্গ কি?",
+    "keywords": ["gender", "boy", "girl", "লিঙ্গ"]
+  },
+  {
+    "q_en": "I am a boy",
+    "q_bn": "আমি ছেলে",
+    "a_en": "Nice! Then imagine me as a friendly girl 😊",
+    "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ মেয়ে ভাবতে পারেন 😊",
+    "keywords": ["boy", "ছেলে"]
+  },
+  {
+    "q_en": "I am a girl",
+    "q_bn": "আমি মেয়ে",
+    "a_en": "Nice! Then imagine me as a friendly boy 😊",
+    "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ ছেলে ভাবতে পারেন 😊",
+    "keywords": ["girl", "মেয়ে"]
+  },
+
+  {
+    "q_en": "Tell me a joke",
+    "q_bn": "একটা মজার কথা বলো",
+    "a_en": "Why did the poet bring a ladder? 😄 To reach high poetry!",
+    "a_bn": "কবি সিঁড়ি নিয়ে কেন এসেছিল? 😄 উঁচু কবিতা ধরতে!",
+    "keywords": ["joke", "funny", "মজা"]
+  },
+
+  {
+    "q_en": "I am bored",
+    "q_bn": "আমি বিরক্ত",
+    "a_en": "Try reading a poem 📖 It might inspire you!",
+    "a_bn": "একটা কবিতা পড়ে দেখুন 📖 মন ভালো হতে পারে!",
+    "keywords": ["bored", "বিরক্ত"]
+  },
+
+  {
+    "q_en": "Bad words",
+    "q_bn": "খারাপ ভাষা",
+    "a_en": "Please be polite 😊 I’m here to help you.",
+    "a_bn": "দয়া করে ভদ্র থাকুন 😊 আমি সাহায্য করতে এখানে আছি।",
+    "keywords": ["stupid", "idiot", "slang", "খারাপ"]
+  },
+
+  {
+    "q_en": "Unknown",
+    "q_bn": "বোঝা যায়নি",
+    "a_en": "Hmm 🤔 I didn’t understand. Try asking about poems or app features.",
+    "a_bn": "বুঝতে পারিনি 🤔 কবিতা বা অ্যাপ সম্পর্কিত কিছু জিজ্ঞাসা করুন।",
+    "keywords": []
+  }
+]
