@@ -5,6 +5,7 @@
     "a_en": "Long press on any poem text, select your desired part, then tap ⭐ Save.",
     "a_bn": "যেকোনো কবিতার উপর লং প্রেস করুন, পছন্দের অংশ সিলেক্ট করুন, তারপর ⭐ Save চাপুন।",
     "keywords": ["save", "favorite", "line", "store", "সংরক্ষণ", "প্রিয়", "লাইন"]
+    "type": "faq"
   },
   {
     "q_en": "How do I select text?",
@@ -12,6 +13,7 @@
     "a_en": "Long press on the poem and drag the selection handles.",
     "a_bn": "কবিতার উপর লং প্রেস করে সিলেকশন হ্যান্ডেল টেনে নিন।",
     "keywords": ["select", "text", "highlight", "সিলেক্ট"]
+    "type": "faq"
   },
   {
     "q_en": "Where are my saved lines?",
@@ -19,6 +21,7 @@
     "a_en": "Tap the ⭐ icon in the app bar to open Favorite Lines.",
     "a_bn": "অ্যাপ বারের ⭐ আইকনে চাপ দিয়ে Favorite Lines খুলুন।",
     "keywords": ["favorite", "saved", "where", "কোথায়"]
+    "type": "faq"
   },
   {
     "q_en": "How to change font size?",
@@ -26,6 +29,7 @@
     "a_en": "Double tap on the poem screen to zoom in/out.",
     "a_bn": "কবিতার স্ক্রিনে ডাবল ট্যাপ করলে ফন্ট বড় বা ছোট হবে।",
     "keywords": ["font", "size", "zoom", "ফন্ট"]
+    "type": "faq"
   },
   {
     "q_en": "How to share text?",
@@ -33,6 +37,7 @@
     "a_en": "Select text and tap Share option.",
     "a_bn": "টেক্সট সিলেক্ট করে Share অপশন চাপুন।",
     "keywords": ["share", "send", "শেয়ার"]
+    "type": "faq"
   },
 
   {
@@ -74,6 +79,7 @@
     "a_en": "Yes, most features work offline, but updates need internet.",
     "a_bn": "হ্যাঁ, বেশিরভাগ ফিচার অফলাইনে কাজ করে, তবে আপডেটের জন্য ইন্টারনেট দরকার।",
     "keywords": ["offline", "internet", "অফলাইন"]
+    "type": "faq"
   },
 
   {
@@ -82,6 +88,7 @@
     "a_en": "Go to Help Center → Report Issue.",
     "a_bn": "Help Center → Report Issue এ যান।",
     "keywords": ["bug", "issue", "problem", "সমস্যা"]
+    "type": "faq"
   },
 
   {
