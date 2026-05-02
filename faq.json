@@ -4,7 +4,7 @@
     "q_bn": "আমি কিভাবে প্রিয় লাইন সংরক্ষণ করবো?",
     "a_en": "Long press on any poem text, select your desired part, then tap ⭐ Save.",
     "a_bn": "যেকোনো কবিতার উপর লং প্রেস করুন, পছন্দের অংশ সিলেক্ট করুন, তারপর ⭐ Save চাপুন।",
-    "keywords": ["save", "favorite", "line", "store", "সংরক্ষণ", "প্রিয়", "লাইন"]
+    "keywords": ["save", "favorite", "line", "store", "সংরক্ষণ", "প্রিয়", "লাইন"],
     "type": "faq"
   },
   {
@@ -12,7 +12,7 @@
     "q_bn": "আমি কিভাবে টেক্সট সিলেক্ট করবো?",
     "a_en": "Long press on the poem and drag the selection handles.",
     "a_bn": "কবিতার উপর লং প্রেস করে সিলেকশন হ্যান্ডেল টেনে নিন।",
-    "keywords": ["select", "text", "highlight", "সিলেক্ট"]
+    "keywords": ["select", "text", "highlight", "সিলেক্ট"],
     "type": "faq"
   },
   {
@@ -20,7 +20,7 @@
     "q_bn": "আমার সংরক্ষিত লাইন কোথায় পাবো?",
     "a_en": "Tap the ⭐ icon in the app bar to open Favorite Lines.",
     "a_bn": "অ্যাপ বারের ⭐ আইকনে চাপ দিয়ে Favorite Lines খুলুন।",
-    "keywords": ["favorite", "saved", "where", "কোথায়"]
+    "keywords": ["favorite", "saved", "where", "কোথায়"],
     "type": "faq"
   },
   {
@@ -28,7 +28,7 @@
     "q_bn": "ফন্ট সাইজ কিভাবে পরিবর্তন করবো?",
     "a_en": "Double tap on the poem screen to zoom in/out.",
     "a_bn": "কবিতার স্ক্রিনে ডাবল ট্যাপ করলে ফন্ট বড় বা ছোট হবে।",
-    "keywords": ["font", "size", "zoom", "ফন্ট"]
+    "keywords": ["font", "size", "zoom", "ফন্ট"],
     "type": "faq"
   },
   {
@@ -36,7 +36,7 @@
     "q_bn": "আমি কিভাবে শেয়ার করবো?",
     "a_en": "Select text and tap Share option.",
     "a_bn": "টেক্সট সিলেক্ট করে Share অপশন চাপুন।",
-    "keywords": ["share", "send", "শেয়ার"]
+    "keywords": ["share", "send", "শেয়ার"],
     "type": "faq"
   },
 
@@ -45,7 +45,7 @@
     "q_bn": "হ্যালো",
     "a_en": "Hello 👋 How can I help you today?",
     "a_bn": "হ্যালো 👋 আমি কিভাবে আপনাকে সাহায্য করতে পারি?",
-    "keywords": ["hi", "hello", "hey", "হ্যালো"]
+    "keywords": ["hi", "hello", "hey", "হ্যালো"],
     "type": "chat"
   },
   {
@@ -53,7 +53,7 @@
     "q_bn": "সুপ্রভাত",
     "a_en": "Good morning ☀️ Enjoy some beautiful poetry today!",
     "a_bn": "সুপ্রভাত ☀️ আজ সুন্দর কিছু কবিতা উপভোগ করুন!",
-    "keywords": ["morning", "সকাল"]
+    "keywords": ["morning", "সকাল"],
     "type": "chat"
   },
   {
@@ -61,7 +61,7 @@
     "q_bn": "ধন্যবাদ",
     "a_en": "You're most welcome 😊",
     "a_bn": "স্বাগতম 😊",
-    "keywords": ["thanks", "thank you", "ধন্যবাদ"]
+    "keywords": ["thanks", "thank you", "ধন্যবাদ"],
     "type": "chat"
   },
   {
@@ -69,7 +69,7 @@
     "q_bn": "ঠিক আছে",
     "a_en": "👍 Got it! Let me know if you need anything.",
     "a_bn": "👍 ঠিক আছে! কিছু লাগলে জানাবেন।",
-    "keywords": ["ok", "okay", "ঠিক"]
+    "keywords": ["ok", "okay", "ঠিক"],
     "type": "chat"
   },
 
@@ -78,7 +78,7 @@
     "q_bn": "অ্যাপ কি অফলাইনে কাজ করে?",
     "a_en": "Yes, most features work offline, but updates need internet.",
     "a_bn": "হ্যাঁ, বেশিরভাগ ফিচার অফলাইনে কাজ করে, তবে আপডেটের জন্য ইন্টারনেট দরকার।",
-    "keywords": ["offline", "internet", "অফলাইন"]
+    "keywords": ["offline", "internet", "অফলাইন"],
     "type": "faq"
   },
 
@@ -87,7 +87,7 @@
     "q_bn": "আমি কিভাবে সমস্যা রিপোর্ট করবো?",
     "a_en": "Go to Help Center → Report Issue.",
     "a_bn": "Help Center → Report Issue এ যান।",
-    "keywords": ["bug", "issue", "problem", "সমস্যা"]
+    "keywords": ["bug", "issue", "problem", "সমস্যা"],
     "type": "faq"
   },
 
@@ -96,7 +96,7 @@
     "q_bn": "তুমি কে?",
     "a_en": "I'm your Bangla Kobita assistant 🤖",
     "a_bn": "আমি আপনার বাংলা কবিতা সহকারী 🤖",
-    "keywords": ["who", "bot", "কে"]
+    "keywords": ["who", "bot", "কে"],
     "type": "chat"
   },
 
@@ -105,7 +105,7 @@
     "q_bn": "তোমার লিঙ্গ কি?",
     "a_en": "Interesting 😊 First tell me your gender.",
     "a_bn": "মজার প্রশ্ন 😊 আগে আপনি বলুন আপনার লিঙ্গ কি?",
-    "keywords": ["gender", "boy", "girl", "লিঙ্গ"]
+    "keywords": ["gender", "boy", "girl", "লিঙ্গ"],
     "type": "chat"
   },
   {
@@ -113,7 +113,7 @@
     "q_bn": "আমি ছেলে",
     "a_en": "Nice! Then imagine me as a friendly girl 😊",
     "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ মেয়ে ভাবতে পারেন 😊",
-    "keywords": ["boy", "ছেলে"]
+    "keywords": ["boy", "ছেলে"],
     "type": "chat"
   },
   {
@@ -121,7 +121,7 @@
     "q_bn": "আমি মেয়ে",
     "a_en": "Nice! Then imagine me as a friendly boy 😊",
     "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ ছেলে ভাবতে পারেন 😊",
-    "keywords": ["girl", "মেয়ে"]
+    "keywords": ["girl", "মেয়ে"],
     "type": "chat"
   },
 
@@ -130,7 +130,7 @@
     "q_bn": "একটা মজার কথা বলো",
     "a_en": "Why did the poet bring a ladder? 😄 To reach high poetry!",
     "a_bn": "কবি সিঁড়ি নিয়ে কেন এসেছিল? 😄 উঁচু কবিতা ধরতে!",
-    "keywords": ["joke", "funny", "মজা"]
+    "keywords": ["joke", "funny", "মজা"],
     "type": "chat"
   },
 
@@ -139,7 +139,7 @@
     "q_bn": "আমি বিরক্ত",
     "a_en": "Try reading a poem 📖 It might inspire you!",
     "a_bn": "একটা কবিতা পড়ে দেখুন 📖 মন ভালো হতে পারে!",
-    "keywords": ["bored", "বিরক্ত"]
+    "keywords": ["bored", "বিরক্ত"],
     "type": "chat"
   },
 
@@ -148,7 +148,7 @@
     "q_bn": "খারাপ ভাষা",
     "a_en": "Please be polite 😊 I’m here to help you.",
     "a_bn": "দয়া করে ভদ্র থাকুন 😊 আমি সাহায্য করতে এখানে আছি।",
-    "keywords": ["stupid", "idiot", "slang", "খারাপ"]
+    "keywords": ["stupid", "idiot", "slang", "খারাপ"],
     "type": "chat"
   },
 
@@ -157,7 +157,7 @@
     "q_bn": "বোঝা যায়নি",
     "a_en": "Hmm 🤔 I didn’t understand. Try asking about poems or app features.",
     "a_bn": "বুঝতে পারিনি 🤔 কবিতা বা অ্যাপ সম্পর্কিত কিছু জিজ্ঞাসা করুন।",
-    "keywords": []
+    "keywords": [],
     "type": "chat"
   }
 ]
