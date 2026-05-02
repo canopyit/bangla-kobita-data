@@ -178,15 +178,6 @@
     "intent": "share"
   },
   {
-    "q_en": "share_app",
-    "q_bn": "অ্যাপ শেয়ার",
-    "a_en": "📱 Sharing app link...\nSend this link to your friends to install the app.",
-    "a_bn": "📱 অ্যাপ লিংক শেয়ার করা হচ্ছে...\nএই লিংক বন্ধুদের পাঠান অ্যাপ ইনস্টল করার জন্য।",
-    "keywords": ["app", "অ্যাপ"],
-    "type": "action",
-    "intent": "share"
-  },
-  {
     "q_en": "share_status",
     "q_bn": "স্ট্যাটাস কার্ড",
     "a_en": "🎨 Creating status card...\nYou can post it on WhatsApp Status or Instagram.",
@@ -198,11 +189,12 @@
   {
   "q_en": "share_app",
   "q_bn": "অ্যাপ শেয়ার",
-  "a_en": "📱 You can share this app directly from inside the app.\n\nSteps:\n1. Go to Dashboard 🏠\n2. Tap on 'Share App' option\n3. Choose WhatsApp, Instagram, or any app\n4. Send to your friends\n\nNo need to copy any link manually 😊",
-  "a_bn": "📱 আপনি অ্যাপের ভিতর থেকেই শেয়ার করতে পারবেন।\n\nধাপসমূহ:\n1. Dashboard 🏠 এ যান\n2. 'Share App' অপশন চাপুন\n3. WhatsApp, Instagram বা যেকোনো অ্যাপ নির্বাচন করুন\n4. বন্ধুদের পাঠান\n\nকোনো লিংক কপি করার দরকার নেই 😊",
-  "keywords": ["app", "অ্যাপ", "share app"],
+  "a_en": "📱 Sharing app...\nTap button below to go to dashboard.",
+  "a_bn": "📱 অ্যাপ শেয়ার...\nনিচের বাটনে ক্লিক করুন।",
+  "keywords": ["app", "অ্যাপ"],
   "type": "action",
-  "intent": "share"
+  "intent": "share",
+  "action_key": "share_app"
 },
   {
     "q_en": "how_share_poem",
