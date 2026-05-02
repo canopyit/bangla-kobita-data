@@ -211,5 +211,21 @@
     "a_bn": "স্ট্যাটাস কার্ড তৈরি করুন → Share চাপুন → WhatsApp Status বা Instagram-এ পোস্ট করুন।",
     "keywords": ["status share", "card share", "স্ট্যাটাস"],
     "type": "faq"
+  },
+  {
+    "q_en": "Can I publish my own poem?",
+    "q_bn": "আমি কি নিজের কবিতা প্রকাশ করতে পারি?",
+    "a_en": "Yes! You can publish your own poem. Go to Dashboard → Tap 'Send Your Poem' button → Write your poem → Submit it to us. We will review and publish it in our app as well as on our website.",
+    "a_bn": "হ্যাঁ! আপনি নিজের কবিতা প্রকাশ করতে পারেন। Dashboard → 'Send Your Poem' বাটনে যান → আপনার কবিতা লিখুন → আমাদের কাছে পাঠান। আমরা যাচাই করে আমাদের অ্যাপ এবং ওয়েবসাইটে প্রকাশ করব।",
+    "keywords": ["publish poem", "send poem", "my poem", "upload poem", "কবিতা", "প্রকাশ"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How long does it take to publish my poem?",
+    "q_bn": "কবিতা প্রকাশ হতে কত সময় লাগে?",
+    "a_en": "It usually takes 2 to 3 days to review and publish your poem after submission.",
+    "a_bn": "আপনার কবিতা জমা দেওয়ার পর এটি যাচাই করে প্রকাশ করতে সাধারণত ২ থেকে ৩ দিন সময় লাগে।",
+    "keywords": ["time", "publish time", "how long", "delay", "কত সময়"],
+    "type": "faq"
   }
 ]
