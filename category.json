@@ -36,12 +36,6 @@
     "type": "home"
   },
   {
-    "name": "bangla kobita",
-    "label": "bangla kobita",
-    "image": "",
-    "type": ""
-  },
-  {
     "name": "bibidh kobita",
     "label": "bibidh kobita",
     "image": "",
@@ -60,24 +54,6 @@
     "type": ""
   },
   {
-    "name": "chottoder kobita",
-    "label": "chottoder kobita",
-    "image": "",
-    "type": ""
-  },
-  {
-    "name": "jatindramohan bagchi",
-    "label": "jatindramohan bagchi",
-    "image": "",
-    "type": ""
-  },
-  {
-    "name": "jibanananda das",
-    "label": "jibanananda das",
-    "image": "",
-    "type": ""
-  },
-  {
     "name": "jibonmukhi kobita",
     "label": "jibonmukhi kobita",
     "image": "",
@@ -86,8 +62,8 @@
   {
     "name": "joy goswami",
     "label": "joy goswami",
-    "image": "",
-    "type": ""
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJVV6fh_7_sRsicL18KbWNw51mHhiqD8VZtXHyfU2X11gnUfXNL6HfRVzhY7RZIgrOWH_8nQDCIdpzmjKPUOAYe0kZAoYjeEdN66RDsSkmD9ROEEe53c4SnQ9c84S3Bfm-G4yLB3QgoBGGAWP1PzdQnkf8N9CVrcpyxGXIBOxjBtOH265ITrnFVlmuJDD/s275/joy_goswami.jpeg",
+    "type": "home"
   },
   {
     "name": "kashiram das",
