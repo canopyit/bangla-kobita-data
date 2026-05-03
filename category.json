@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Love",
+    "label": "প্রেম",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTyo2rZtkAeGHzyh7cBdzNMXKSi5EQ2JwokrRdDVuWDOT8EmVRdq3g1zGAjr_6W_waWu0Xwg-v2RQ9totEo2SMFFlg_TK4etmaBj84Yf_aIEsr9qj-2UiNoaM6Rk0NE-LvYRlSCRHkLHETPhYLNWHYOOfLVVxx7haBOd3YoKkcML1aCtP6hhclcjW3OZdE/s320/ChatGPT%20Image%20Apr%2029,%202026,%2012_05_43%20PM.png",
+    "type": "both"
+  },
+  {
+    "name": "Sad",
+    "label": "কষ্ট",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVODF-ZHyCL3P1KrMEB1R2Kro8iqRCo8y57LCb8TR_emoQ3u2OBYWeLhrIfHpTu6hbkTMhlcQqTEolntIazwkGisxCpIMQsJrnNA04al5iXaPJQPolBDLkUMWzLRq8sV3ZSTJnd488c-sWjXWyfJnBHBTQv6KAvMTL6Kfekb4HDA_dhtAiAbaJMmDddGRp/s320/ChatGPT%20Image%20Apr%2029,%202026,%2012_09_25%20PM.png",
+    "type": "both"
+  },
+  {
+    "name": "Rabindranath Tagore",
+    "label": "রবীন্দ্রনাথ ঠাকুর",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_VC8HT2KZy32WUalheFFHnBQXsErQgb5-edmkSJseIi8FLBg2FuYgKou5b0gxpfReCrfqGxG97TaRK45bwXZQL1oSO5zRH2IYPjU__2U2qQFOAhLFLg_rmaQZCaEzsT73MTYGQZUUQ5gWenOrIUgKPOMV2ffmfQZvLx2pu-U6u_T9FCoKUdGDj5Z_meOU/s1600/rabindranath-tagore-jayanti-vector-illustration-260nw-2321243033.jpg",
+    "type": "home"
+  },
+  {
+    "name": "Jibanananda Das",
+    "label": "জীবনানন্দ দাস",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCxuBhkVzS7eV8yF4YSsuS33luMhy2Ig2Yj729d-ZFrANPlZITVSumau9Sg4Sm3dEutbjpxVaqaFz9OaVaokY8qGDyXrjAIrKSEiYSRjb0vU7kG5UmKyA81OxmXG11b9M4k6SEpLX4bNBRJxVKGVC4_5-_BD4XP-S36-o1DYB8c38SrqiqF-gWGf8zuKFh/s320/01393f742917f29bc610807e7ea85dd1.jpg",
+    "type": "home"
+  },
+  {
+    "name": "Jatindramohan Bagchi",
+    "label": "যতীন্দ্রমোহন বাগচী",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvW-TBpV9Yp-Wa23j3AYpWsB0B-TfHLQY5LTrOup7BQT8qvAREYl1Bzl9BS39Rq6_LrHU77ecOWoCPj6F5nLXS4NuJt7alFyIR7tVGtub1oyZxLXOYqJRxyXuUGN1OQxCmmb6L45gJwDGxZq7QWWrsiaQudtBkxaBnED62nEQps-F8rCsK0KjR8rUPBEph/s320/ChatGPT%20Image%20Apr%2029,%202026,%2012_03_37%20PM.png",
+    "type": "home"
+  }
+]
