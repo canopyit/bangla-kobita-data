@@ -1,6 +1,6 @@
 [
   {
-    "name": "Love",
+    "name": "love",
     "label": "প্রেম",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTyo2rZtkAeGHzyh7cBdzNMXKSi5EQ2JwokrRdDVuWDOT8EmVRdq3g1zGAjr_6W_waWu0Xwg-v2RQ9totEo2SMFFlg_TK4etmaBj84Yf_aIEsr9qj-2UiNoaM6Rk0NE-LvYRlSCRHkLHETPhYLNWHYOOfLVVxx7haBOd3YoKkcML1aCtP6hhclcjW3OZdE/s320/ChatGPT%20Image%20Apr%2029,%202026,%2012_05_43%20PM.png",
     "type": "both",
@@ -11,7 +11,7 @@
     "isnabin": false
   },
   {
-    "name": "Sad",
+    "name": "sad",
     "label": "কষ্ট",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVODF-ZHyCL3P1KrMEB1R2Kro8iqRCo8y57LCb8TR_emoQ3u2OBYWeLhrIfHpTu6hbkTMhlcQqTEolntIazwkGisxCpIMQsJrnNA04al5iXaPJQPolBDLkUMWzLRq8sV3ZSTJnd488c-sWjXWyfJnBHBTQv6KAvMTL6Kfekb4HDA_dhtAiAbaJMmDddGRp/s320/ChatGPT%20Image%20Apr%2029,%202026,%2012_09_25%20PM.png",
     "type": "both",
@@ -22,7 +22,7 @@
     "isnabin": false
   },
   {
-    "name": "Rabindranath Tagore",
+    "name": "rabindranath tagore",
     "label": "রবীন্দ্রনাথ ঠাকুর",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_VC8HT2KZy32WUalheFFHnBQXsErQgb5-edmkSJseIi8FLBg2FuYgKou5b0gxpfReCrfqGxG97TaRK45bwXZQL1oSO5zRH2IYPjU__2U2qQFOAhLFLg_rmaQZCaEzsT73MTYGQZUUQ5gWenOrIUgKPOMV2ffmfQZvLx2pu-U6u_T9FCoKUdGDj5Z_meOU/s1600/rabindranath-tagore-jayanti-vector-illustration-260nw-2321243033.jpg",
     "type": "home",
@@ -33,14 +33,179 @@
     "isnabin": false
   },
   {
-    "name": "Somlata Sen",
+    "name": "jibanananda das",
+    "label": "জীবনানন্দ দাস",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCxuBhkVzS7eV8yF4YSsuS33luMhy2Ig2Yj729d-ZFrANPlZITVSumau9Sg4Sm3dEutbjpxVaqaFz9OaVaokY8qGDyXrjAIrKSEiYSRjb0vU7kG5UmKyA81OxmXG11b9M4k6SEpLX4bNBRJxVKGVC4_5-_BD4XP-S36-o1DYB8c38SrqiqF-gWGf8zuKFh/s320/01393f742917f29bc610807e7ea85dd1.jpg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "jatindramohan bagchi",
+    "label": "যতীন্দ্রমোহন বাগচী",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvW-TBpV9Yp-Wa23j3AYpWsB0B-TfHLQY5LTrOup7BQT8qvAREYl1Bzl9BS39Rq6_LrHU77ecOWoCPj6F5nLXS4NuJt7alFyIR7tVGtub1oyZxLXOYqJRxyXuUGN1OQxCmmb6L45gJwDGxZq7QWWrsiaQudtBkxaBnED62nEQps-F8rCsK0KjR8rUPBEph/s320/ChatGPT%20Image%20Apr%2029,%202026,%2012_03_37%20PM.png",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "aranyak basu",
+    "label": "aranyak basu",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGykqL6DEWKHF6cjl5B7fTFfNW4MRzSZnMTy4G7PDkntoa0q3LFVqAUH8g4DSU-s37UKRNUS2icY7mjn4rNugBnKmTqYDZQUvh4ZS8_QiZcCVhN8S5k6G8nMqLf876dTyiiE-7NuLtQ_1TJScckKjEnq3eglh3fT6i8WxuHU6ZW6s2AfymzA45Ps17ELG/s394/aronyak-basu.webp",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "bibidh kobita",
+    "label": "bibidh kobita",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-5IuOeYi1Y0_mNl6kZQenhwh5zLWCaLnesqb6_Q4EEIS1h73HrIbjkhkltKZdTlDiJUHFuT0siayiPHIspB0KSkh89zJ3QoimUaeqgfoLk1mIItmctFm3jRELf_Ji_eeaS9Ye2FtFg1efgBuV9gr7Bjwoh6XIOU0a0aqdIFcyCoT8QwfXZbFD7lnEFcuE/s1254/ChatGPT%20Image%20May%203,%202026,%2009_46_50%20PM.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "biroher kobita",
+    "label": "biroher kobita",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb2O4FSlpuW3dhPQDaxwlP7S5k3TTE9B9U0ALBN-RX3UTy-pLCARcdfflqMD3xyTNQYgyp0xfgd03WrDKyUQ4pObWqk05NL7y3G4T4zyV0vMVeHx5l3f2HPbL3f5O9mRnlh_XfsnnT5pO517wyqHwQwxDOUeehEomR371BcsqPEdRDGmO75BJjuELSgfbc/s1254/ChatGPT%20Image%20May%203,%202026,%2009_25_18%20PM.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "chotoder kobita",
+    "label": "chotoder kobita",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdydHAi_GaizUQriSyd75b2OWDdohb09dNC1iBWPV3FO61UDP5CULAP2L7SE-SayTyQvSzOC27RPg_q_-9Egcmmn7_eFuUNkQxUj0Q0LdyebICSGaWJ9c7r5El0uKnPl89H1Bnp1e6EPetnoj70dJ7u1RPwxBr1bnB8Gq5r1_A3vjq3roy1Ygxk_gL-jaK/s1254/ChatGPT%20Image%20May%203,%202026,%2009_27_06%20PM.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "jibonmukhi kobita",
+    "label": "jibonmukhi kobita",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFn8X74PjeYExwomO1LShVUy56zYvJPXjUVsBWdgOOsj9EmwDWol2VZzPFKrKyOXO4xK09FXJAq-4dzgvILTn1lnWayW6cOb3pL0zpr8oqN43H64-g-qSY569RCzN45nc7-OMgtn8s6OBwL66lua9zkKNOq18VVyg78apspZ3j9ksHBkzpYhTEHV4HOnaH/s1415/ChatGPT%20Image%20May%203,%202026,%2009_44_43%20PM.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "joy goswami",
+    "label": "joy goswami",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJVV6fh_7_sRsicL18KbWNw51mHhiqD8VZtXHyfU2X11gnUfXNL6HfRVzhY7RZIgrOWH_8nQDCIdpzmjKPUOAYe0kZAoYjeEdN66RDsSkmD9ROEEe53c4SnQ9c84S3Bfm-G4yLB3QgoBGGAWP1PzdQnkf8N9CVrcpyxGXIBOxjBtOH265ITrnFVlmuJDD/s275/joy_goswami.jpeg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "kashiram das",
+    "label": "kashiram das",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUM2P2R49NOQgbMDokveuUP1ab9AAZk7oYxp4woFBHqgtYxZFkVJlQnMBnPAPtCpZduSYDR9E6i5bXSk7wdpPzdshKf7rPRnmbBMWuk2gMnSIox_X7wKB4Z9X44QsOMPRlQM0tsHYBg4Q9UlR9alqdWLQeTjDDTWldKZN2hjtmq5YX8JX4n4eENI4pee/s320/kashiram-das-545aa316-03f4-4408-86f6-44c1fbe1a42-resize-750.jpeg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "kazi nazrul islam",
+    "label": "kazi nazrul islam",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYaTRwIV6Un1eSTo5SFkKe5bJBoA4WJL65BfzQ3dyv8Q1m1VV21THz6iuTNhJsAg2g2N8EnrZgQ4cTGm7zWj4aFR5QwbKs9RuUMjMv-g8z4-YiAEyfq8iF-Ra66NXmnViW2LDtNKH5vHu0H_TMJXvb7YpPmEVt2wVPci0jnvGSGmO7DuZwb1NkJOO5GwA/s300/kazi-nazrul-islam_1436779885.webp",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "makar sankranti kobita",
+    "label": "makar sankranti kobita",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb2iWh90MJEhS399cfuEGLMCNiz88o9Yb3xsrJHXdQGR4Iy653Ou6fXbEqOLoOLCY8jIGshjX9DOYyOtTqLYo4asl2xtjkShH3oDP22TzZjZYN5yNMxZM79D5ardZ47uOoEfNxoHJaKXxzOzLyVf5Ct2AF_FR2OPvD3GTTylA04tDXo8RRg88UxCJakcEe/s1254/0a2500a7-9d14-434d-88bf-7057c3007d4a.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": true,
+    "isnabin": false
+  },
+  {
+    "name": "nirmalendu goon",
+    "label": "nirmalendu goon",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvcmFQr3WC2BMv5ft7PhSOI8tfFaNcz1vUQtGkCZLtjTp7-G66DG77Lm06lbAtYethxMptKeeqEL8u6ScygwL9geNRext3Tk_2vJwgeYXiYjpbZPmKcgYakxW-m1vL4JyiYT1jkynS6wyPLLzvYWkwUVz1KfDAknkXSVCiBu8cd5G46Y0VqXEThyBL87LM/s640/o8oa50mt.jpg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "prokritir kobita",
+    "label": "prokritir kobita",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8yJcxq3wZK8hY5hAcdevTUygsFODbEWlvn2YT9FanrmuSVrks0aDIPpSLfpvP3wNbtGcREkqQdLUX6XlQrgPZXs8aiYnWHJ02_aS6h2qi78Fjhh0rfyGAVzei5Jk7e6D4O_EjBB-VrRKTxB6big8zUTctJg45zpKQjwkcoyez2zao5jt1goJnhd5rLS/s1254/ChatGPT%20Image%20May%203,%202026,%2009_33_09%20PM.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "somlota sen",
     "label": "somlota sen",
-    "image": "https://via.placeholder.com/150",
+    "image": "",
     "type": "home",
     "isbanner": false,
     "iswriter": true,
     "ismood": false,
     "isfestival": false,
     "isnabin": true
+  },
+  {
+    "name": "sukanta bhattacharya",
+    "label": "sukanta bhattacharya",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjav2WRnGhC7c8GFXV22MnM6CnwdLW7CH8YnrydPCbsg8xIhdyc7aFoFwr2lO2XDILP_RxIwF9kZlJqN1ikXCVMIQRBE3ufzh0VMO_PodTBa4Lp-AG8txId_dXQmeF2FpnUY9M4kvaePxUz8Dxq2z2kXBBIIzKz04b2PD-kgiYfwV1-6vQboaoRS7qTT8nm/s225/images.jpeg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
+    "name": "valentine day kobita",
+    "label": "valentine day kobita",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfbl8yOxko8MtXn5a8zxdTXQ2iZHvMHMi_kd6bt6ThV_EaiDrKYi57WW3rHHT6yJZDxHEePp7bfP5EBiws6wYbc85aJw9UAAMn2zDM7mf6MNWoTYVfhj9NSwSfUiOHmdIqC8nE10aBhfVpHBLlczWdMH8CC30GUy45wOzmRJuKwJbSdsPP-AObI4qn3Ahx/s1402/f0b66fa5-a437-480a-8c70-8ddb0d731224.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": false,
+    "isnabin": false
   }
 ]
