@@ -143,17 +143,6 @@
     "isnabin": "no"
   },
   {
-    "name": "love poem in bengali",
-    "label": "love poem in bengali",
-    "image": "",
-    "type": "",
-    "isbanner": "no",
-    "iswriter": "yes",
-    "ismood": "yes",
-    "isfestival": "no",
-    "isnabin": "no"
-  },
-  {
     "name": "makar sankranti kobita",
     "label": "makar sankranti kobita",
     "image": "",
@@ -165,30 +154,8 @@
     "isnabin": "no"
   },
   {
-    "name": "nabin",
-    "label": "nabin",
-    "image": "",
-    "type": "",
-    "isbanner": "no",
-    "iswriter": "yes",
-    "ismood": "yes",
-    "isfestival": "no",
-    "isnabin": "no"
-  },
-  {
     "name": "nirmalendu goon",
     "label": "nirmalendu goon",
-    "image": "",
-    "type": "",
-    "isbanner": "no",
-    "iswriter": "yes",
-    "ismood": "yes",
-    "isfestival": "no",
-    "isnabin": "no"
-  },
-  {
-    "name": "prabin",
-    "label": "prabin",
     "image": "",
     "type": "",
     "isbanner": "no",
@@ -211,7 +178,7 @@
   {
     "name": "prokritir kobita",
     "label": "prokritir kobita",
-    "image": "",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8yJcxq3wZK8hY5hAcdevTUygsFODbEWlvn2YT9FanrmuSVrks0aDIPpSLfpvP3wNbtGcREkqQdLUX6XlQrgPZXs8aiYnWHJ02_aS6h2qi78Fjhh0rfyGAVzei5Jk7e6D4O_EjBB-VrRKTxB6big8zUTctJg45zpKQjwkcoyez2zao5jt1goJnhd5rLS/s1254/ChatGPT%20Image%20May%203,%202026,%2009_33_09%20PM.png",
     "type": "",
     "isbanner": "no",
     "iswriter": "yes",
