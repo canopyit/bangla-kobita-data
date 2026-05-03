@@ -28,7 +28,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -39,7 +39,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -50,7 +50,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -61,7 +61,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -116,7 +116,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -127,7 +127,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -138,7 +138,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -160,7 +160,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -193,7 +193,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
@@ -204,7 +204,7 @@
     "type": "home",
     "isbanner": "no",
     "iswriter": "yes",
-    "ismood": "yes",
+    "ismood": "no",
     "isfestival": "no",
     "isnabin": "no"
   },
