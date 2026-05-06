@@ -218,7 +218,7 @@
   {
     "name": "Jasimuddin",
     "label": "জসীমউদ্দীন",
-    "data_lable": "sukanta%20bhattacharya",        
+    "data_lable": "jasimuddin",        
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF2NUysULhykVMXRdoB3iKxtJ4vzvfDf9lCEU2tsFfyxt8J1d3dL3vQ1TpwbKGPCW-GF56k3LowfkWmzHW5G2QV1tg27Yd6IHIQojsOk_BoImzthCQAAPO2Ec2PwP9lI5B7kWZpMrimRP3PmfDJtWEAxumxwLdz4j5Nsp0XeiY33sI6glpbWYdxc2SyH7S/s268/Jasimuddin.jpeg",
     "type": "home",
     "isbanner": false,
@@ -238,5 +238,5 @@
     "ismood": true,
     "isfestival": false,
     "isnabin": false
-  }
+  },
 ]
