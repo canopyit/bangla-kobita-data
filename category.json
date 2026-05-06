@@ -239,4 +239,16 @@
     "isfestival": false,
     "isnabin": false
   },
+  {
+    "name": "Taslima Nasrin",
+    "label": "তসলিমা নাসরিন",
+    "data_lable": "taslima%20nasrin",        
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhocbabzSnMizz0BfBgTMZrHil9uuLtqeQMDSoBH8NIIowwLAUtUrcWRd0uBZbUim11UtZ2cGtbHAdyj-BZLnWaHBTMxP_Q_xavh-rVi9eDKbhfZuz0HxcptKu93Jfd6hl4tN013ksTYuVFZncIXciOYnercd2rsGZV0ob13C5YInZwcIq5RtlZYb69wj04/s555/images.webp",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  }
 ]
