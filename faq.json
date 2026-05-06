@@ -237,5 +237,125 @@
     "a_bn": "আপনার কবিতা জমা দেওয়ার পর এটি যাচাই করে প্রকাশ করতে সাধারণত ২ থেকে ৩ দিন সময় লাগে।",
     "keywords": ["time", "publish time", "how long", "delay", "কত সময়"],
     "type": "faq"
+  },
+  {
+    "q_en": "How do I delete a saved line?",
+    "q_bn": "আমি কিভাবে সংরক্ষিত লাইন মুছবো?",
+    "a_en": "Go to Favorite Lines → Tap delete icon 🗑 on the line you want to remove.",
+    "a_bn": "Favorite Lines এ যান → যেটি মুছতে চান তার পাশে 🗑 আইকনে চাপুন।",
+    "keywords": ["delete", "remove", "favorite", "মুছা"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How do I download a status card?",
+    "q_bn": "আমি কিভাবে স্ট্যাটাস কার্ড ডাউনলোড করবো?",
+    "a_en": "Open Favorite Lines → Tap download icon ⬇️ to save image in gallery.",
+    "a_bn": "Favorite Lines এ যান → ⬇️ আইকনে চাপলে গ্যালারিতে সেভ হবে।",
+    "keywords": ["download", "save image", "gallery", "ডাউনলোড"],
+    "type": "faq"
+  },
+  {
+    "q_en": "Why is my image not saving?",
+    "q_bn": "আমার ছবি সেভ হচ্ছে না কেন?",
+    "a_en": "Please allow storage permission in your device settings.",
+    "a_bn": "দয়া করে আপনার ফোনের settings থেকে storage permission চালু করুন।",
+    "keywords": ["save issue", "permission", "not saving"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How to enable storage permission?",
+    "q_bn": "স্টোরেজ পারমিশন কিভাবে চালু করবো?",
+    "a_en": "Go to Phone Settings → Apps → Bangla Kobita → Permissions → Allow Storage.",
+    "a_bn": "Phone Settings → Apps → Bangla Kobita → Permissions → Storage Allow করুন।",
+    "keywords": ["permission", "storage", "allow"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How do I customize quote design?",
+    "q_bn": "আমি কিভাবে ডিজাইন পরিবর্তন করবো?",
+    "a_en": "Go to Favorite Lines → Tap 🎨 icon → Choose style, font, and effects.",
+    "a_bn": "Favorite Lines → 🎨 আইকনে চাপুন → স্টাইল, ফন্ট ও ইফেক্ট বেছে নিন।",
+    "keywords": ["design", "style", "customize"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How do I change language?",
+    "q_bn": "আমি কিভাবে ভাষা পরিবর্তন করবো?",
+    "a_en": "Go to Settings → Language → Choose Bengali or English.",
+    "a_bn": "Settings → Language → বাংলা বা ইংরেজি নির্বাচন করুন।",
+    "keywords": ["language", "বাংলা", "english"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How do I enable dark mode?",
+    "q_bn": "আমি কিভাবে ডার্ক মোড চালু করবো?",
+    "a_en": "Go to Settings → Turn ON Dark Mode.",
+    "a_bn": "Settings → Dark Mode চালু করুন।",
+    "keywords": ["dark", "theme"],
+    "type": "faq"
+  },
+  {
+    "q_en": "Does this app need internet?",
+    "q_bn": "এই অ্যাপ কি ইন্টারনেট লাগে?",
+    "a_en": "You can read poems offline, but updates need internet.",
+    "a_bn": "আপনি অফলাইনে কবিতা পড়তে পারবেন, কিন্তু আপডেটের জন্য ইন্টারনেট লাগবে।",
+    "keywords": ["internet", "offline"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How do I search poems?",
+    "q_bn": "আমি কিভাবে কবিতা খুঁজবো?",
+    "a_en": "Use the search bar on home screen and type keywords.",
+    "a_bn": "হোম স্ক্রিনের সার্চ বারে লিখে কবিতা খুঁজুন।",
+    "keywords": ["search", "find"],
+    "type": "faq"
+  },
+  {
+    "q_en": "Why is search not working?",
+    "q_bn": "সার্চ কাজ করছে না কেন?",
+    "a_en": "Check your spelling or try different keywords.",
+    "a_bn": "বানান ঠিক আছে কিনা দেখুন অথবা অন্য শব্দ ব্যবহার করুন।",
+    "keywords": ["search problem"],
+    "type": "faq"
+  },
+  {
+    "q_en": "Can I copy poem text?",
+    "q_bn": "আমি কি কবিতার লেখা কপি করতে পারি?",
+    "a_en": "Yes, select text and tap Copy option.",
+    "a_bn": "হ্যাঁ, টেক্সট সিলেক্ট করে Copy চাপুন।",
+    "keywords": ["copy", "text"],
+    "type": "faq"
+  },
+  {
+    "q_en": "Is my data safe?",
+    "q_bn": "আমার ডেটা কি নিরাপদ?",
+    "a_en": "Yes, your saved lines are stored securely on your device.",
+    "a_bn": "হ্যাঁ, আপনার সংরক্ষিত ডেটা নিরাপদে আপনার ফোনে সংরক্ষিত থাকে।",
+    "keywords": ["data", "safe", "privacy"],
+    "type": "faq"
+  },
+  {
+    "q_en": "Will I lose data if I uninstall the app?",
+    "q_bn": "অ্যাপ আনইনস্টল করলে ডেটা মুছে যাবে?",
+    "a_en": "Yes, uninstalling the app may remove your saved data.",
+    "a_bn": "হ্যাঁ, অ্যাপ মুছে ফেললে সংরক্ষিত ডেটা মুছে যেতে পারে।",
+    "keywords": ["data loss", "uninstall"],
+    "type": "faq"
+  },
+  {
+    "q_en": "How to update the app?",
+    "q_bn": "অ্যাপ আপডেট কিভাবে করবো?",
+    "a_en": "Go to Play Store → Search Bangla Kobita → Tap Update.",
+    "a_bn": "Play Store → Bangla Kobita খুঁজুন → Update চাপুন।",
+    "keywords": ["update", "version"],
+    "type": "faq"
+  },
+  {
+    "q_en": "Why is app slow?",
+    "q_bn": "অ্যাপ স্লো কেন?",
+    "a_en": "Try restarting the app or clearing cache.",
+    "a_bn": "অ্যাপ বন্ধ করে আবার চালু করুন বা cache পরিষ্কার করুন।",
+    "keywords": ["slow", "lag"],
+    "type": "faq"
   }
 ]
