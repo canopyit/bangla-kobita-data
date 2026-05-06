@@ -1,0 +1,34 @@
+[
+  {
+    "id": "rabindranath_tagore",
+
+    "name": "Rabindranath Tagore",
+    "name_bn": "রবীন্দ্রনাথ ঠাকুর",
+
+    "image": "https://yourcdn.com/tagore.jpg",
+
+    "birth": "1861",
+    "death": "1941",
+
+    "bio_en": "Rabindranath Tagore was a Bengali poet, writer, and Nobel laureate...",
+    "bio_bn": "রবীন্দ্রনাথ ঠাকুর ছিলেন একজন বাঙালি কবি...",
+
+    "tags": ["poet", "nobel laureate", "philosopher"],
+
+    "famous_works": [
+      "Gitanjali",
+      "Ghare Baire",
+      "Kabuliwala"
+    ],
+
+    "labels": [
+      "rabindranath",
+      "tagore",
+       "rabindranath tagore"
+    ],
+
+    "categories": ["top10", "prabin"],
+
+    "total_posts": 120
+  }
+]
