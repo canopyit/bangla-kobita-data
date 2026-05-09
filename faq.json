@@ -197,7 +197,7 @@
   "action_key": "share_app"
 },
   {
-    "q_en": "how_share_poem",
+    "q_en": "how to share poem",
     "q_bn": "কিভাবে কবিতা শেয়ার করবো",
     "a_en": "Select poem text → Tap Share → Choose WhatsApp, Instagram, or others.",
     "a_bn": "কবিতার অংশ সিলেক্ট করুন → Share চাপুন → WhatsApp বা Instagram নির্বাচন করুন।",
@@ -205,7 +205,7 @@
     "type": "faq"
   },
   {
-    "q_en": "how_share_status",
+    "q_en": "how to share status card",
     "q_bn": "কিভাবে স্ট্যাটাস কার্ড শেয়ার করবো",
     "a_en": "Generate a status card → Tap Share → Post on WhatsApp Status or Instagram.",
     "a_bn": "স্ট্যাটাস কার্ড তৈরি করুন → Share চাপুন → WhatsApp Status বা Instagram-এ পোস্ট করুন।",
