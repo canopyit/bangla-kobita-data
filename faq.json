@@ -4,7 +4,28 @@
     "q_bn": "আমি কিভাবে প্রিয় লাইন সংরক্ষণ করবো?",
     "a_en": "Long press on any poem text, select your desired part, then tap ⭐ Save.",
     "a_bn": "যেকোনো কবিতার উপর লং প্রেস করুন, পছন্দের অংশ সিলেক্ট করুন, তারপর ⭐ Save চাপুন।",
-    "keywords": ["save", "favorite", "line", "store", "সংরক্ষণ", "প্রিয়", "লাইন"],
+    "keywords": [
+      "save favorite line",
+      "save line",
+      "favorite line",
+      "bookmark line",
+      "store line",
+      "save poem line",
+      "save quote",
+      "favorite quote",
+      "how to save line",
+      "save selected text",
+      "লাইন সেভ",
+      "লাইন সংরক্ষণ",
+      "প্রিয় লাইন",
+      "প্রিয় লাইন সেভ",
+      "কবিতার লাইন সেভ",
+      "কবিতার লাইন সংরক্ষণ",
+      "উক্তি সেভ",
+      "সংরক্ষণ করবো",
+      "ফেভারিট লাইন",
+      "বুকমার্ক লাইন"
+    ],
     "type": "faq"
   },
   {
@@ -12,7 +33,24 @@
     "q_bn": "আমি কিভাবে টেক্সট সিলেক্ট করবো?",
     "a_en": "Long press on the poem and drag the selection handles.",
     "a_bn": "কবিতার উপর লং প্রেস করে সিলেকশন হ্যান্ডেল টেনে নিন।",
-    "keywords": ["select", "text", "highlight", "সিলেক্ট"],
+    "keywords": [
+      "select text",
+      "highlight text",
+      "select poem line",
+      "copy selection",
+      "text selection",
+      "how to select",
+      "select words",
+      "highlight poem",
+      "টেক্সট সিলেক্ট",
+      "লাইন সিলেক্ট",
+      "কবিতা সিলেক্ট",
+      "লেখা সিলেক্ট",
+      "টেক্সট হাইলাইট",
+      "কবিতার লেখা সিলেক্ট",
+      "সিলেকশন",
+      "লেখা নির্বাচন"
+    ],
     "type": "faq"
   },
   {
@@ -20,7 +58,24 @@
     "q_bn": "আমার সংরক্ষিত লাইন কোথায় পাবো?",
     "a_en": "Tap the ⭐ icon in the app bar to open Favorite Lines.",
     "a_bn": "অ্যাপ বারের ⭐ আইকনে চাপ দিয়ে Favorite Lines খুলুন।",
-    "keywords": ["favorite", "saved", "where", "কোথায়"],
+    "keywords": [
+      "saved lines",
+      "favorite lines",
+      "where are favorites",
+      "open saved lines",
+      "find saved lines",
+      "favorite section",
+      "saved quote",
+      "where is bookmark",
+      "সংরক্ষিত লাইন",
+      "প্রিয় লাইন কোথায়",
+      "ফেভারিট লাইন",
+      "সেভ করা লাইন",
+      "বুকমার্ক কোথায়",
+      "সংরক্ষিত কবিতা",
+      "ফেভারিট সেকশন",
+      "লাইন খুঁজে পাচ্ছি না"
+    ],
     "type": "faq"
   },
   {
@@ -28,7 +83,25 @@
     "q_bn": "ফন্ট সাইজ কিভাবে পরিবর্তন করবো?",
     "a_en": "Double tap on the poem screen to zoom in/out.",
     "a_bn": "কবিতার স্ক্রিনে ডাবল ট্যাপ করলে ফন্ট বড় বা ছোট হবে।",
-    "keywords": ["font", "size", "zoom", "ফন্ট"],
+    "keywords": [
+      "font size",
+      "change font",
+      "increase text size",
+      "decrease text size",
+      "zoom text",
+      "big font",
+      "small font",
+      "poem zoom",
+      "ফন্ট সাইজ",
+      "ফন্ট বড়",
+      "ফন্ট ছোট",
+      "লেখা বড়",
+      "লেখা ছোট",
+      "টেক্সট জুম",
+      "ফন্ট পরিবর্তন",
+      "জুম ইন",
+      "জুম আউট"
+    ],
     "type": "faq"
   },
   {
@@ -36,7 +109,24 @@
     "q_bn": "আমি কিভাবে শেয়ার করবো?",
     "a_en": "Select text and tap Share option.",
     "a_bn": "টেক্সট সিলেক্ট করে Share অপশন চাপুন।",
-    "keywords": ["share", "send", "শেয়ার"],
+    "keywords": [
+      "share text",
+      "share poem",
+      "send poem",
+      "share quote",
+      "share lines",
+      "share selected text",
+      "share writing",
+      "forward poem",
+      "টেক্সট শেয়ার",
+      "কবিতা শেয়ার",
+      "লাইন শেয়ার",
+      "উক্তি শেয়ার",
+      "শেয়ার করবো",
+      "অন্যকে পাঠাবো",
+      "কবিতা পাঠানো",
+      "স্ট্যাটাসে শেয়ার"
+    ],
     "type": "faq"
   },
   {
@@ -44,7 +134,18 @@
     "q_bn": "হ্যালো",
     "a_en": "Hello 👋 How can I help you today?",
     "a_bn": "হ্যালো 👋 আমি কিভাবে আপনাকে সাহায্য করতে পারি?",
-    "keywords": ["hi", "hello", "hey", "হ্যালো"],
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "heya",
+      "good to see you",
+      "হ্যালো",
+      "হাই",
+      "এই",
+      "আসসালামু আলাইকুম",
+      "নমস্কার"
+    ],
     "type": "chat"
   },
   {
@@ -52,15 +153,28 @@
     "q_bn": "সুপ্রভাত",
     "a_en": "Good morning ☀️ Enjoy some beautiful poetry today!",
     "a_bn": "সুপ্রভাত ☀️ আজ সুন্দর কিছু কবিতা উপভোগ করুন!",
-    "keywords": ["morning", "সকাল"],
+    "keywords": [
+      "good morning",
+      "morning",
+      "gm",
+      "সুপ্রভাত",
+      "শুভ সকাল",
+      "সকাল"
+    ],
     "type": "chat"
   },
-   {
+  {
     "q_en": "Good evening",
     "q_bn": "শুভ সন্ধ্যা",
-    "a_en": "Good evening ☀️ Enjoy some beautiful poetry today!",
-    "a_bn": "শুভ সন্ধ্যা ☀️ আজ সুন্দর কিছু কবিতা উপভোগ করুন!",
-    "keywords": ["evening", "সন্ধ্যা"],
+    "a_en": "Good evening 🌆 Enjoy some beautiful poetry today!",
+    "a_bn": "শুভ সন্ধ্যা 🌆 আজ সুন্দর কিছু কবিতা উপভোগ করুন!",
+    "keywords": [
+      "good evening",
+      "evening",
+      "শুভ সন্ধ্যা",
+      "সন্ধ্যা",
+      "সন্ধ্যা ভালো"
+    ],
     "type": "chat"
   },
   {
@@ -68,7 +182,16 @@
     "q_bn": "ধন্যবাদ",
     "a_en": "You're most welcome 😊",
     "a_bn": "স্বাগতম 😊",
-    "keywords": ["thanks", "thank you", "ধন্যবাদ"],
+    "keywords": [
+      "thank you",
+      "thanks",
+      "thank u",
+      "thx",
+      "ধন্যবাদ",
+      "অনেক ধন্যবাদ",
+      "thanks a lot",
+      "শুকরিয়া"
+    ],
     "type": "chat"
   },
   {
@@ -76,7 +199,18 @@
     "q_bn": "ঠিক আছে",
     "a_en": "👍 Got it! Let me know if you need anything.",
     "a_bn": "👍 ঠিক আছে! কিছু লাগলে জানাবেন।",
-    "keywords": ["ok", "okay", "ঠিক"],
+    "keywords": [
+      "ok",
+      "okay",
+      "alright",
+      "fine",
+      "got it",
+      "ঠিক আছে",
+      "আচ্ছা",
+      "বুঝেছি",
+      "ঠিক",
+      "ওকে"
+    ],
     "type": "chat"
   },
   {
@@ -84,7 +218,20 @@
     "q_bn": "অ্যাপ কি অফলাইনে কাজ করে?",
     "a_en": "Yes, most features work offline, but updates need internet.",
     "a_bn": "হ্যাঁ, বেশিরভাগ ফিচার অফলাইনে কাজ করে, তবে আপডেটের জন্য ইন্টারনেট দরকার।",
-    "keywords": ["offline", "internet", "অফলাইন"],
+    "keywords": [
+      "offline app",
+      "without internet",
+      "internet required",
+      "works offline",
+      "can use offline",
+      "network needed",
+      "অফলাইন",
+      "ইন্টারনেট ছাড়া",
+      "নেট ছাড়া",
+      "অফলাইনে কাজ",
+      "ইন্টারনেট লাগে",
+      "নেট দরকার"
+    ],
     "type": "faq"
   },
   {
@@ -92,7 +239,20 @@
     "q_bn": "আমি কিভাবে সমস্যা রিপোর্ট করবো?",
     "a_en": "Go to Help Center → Report Issue.",
     "a_bn": "Help Center → Report Issue এ যান।",
-    "keywords": ["bug", "issue", "problem", "সমস্যা"],
+    "keywords": [
+      "report bug",
+      "report issue",
+      "app problem",
+      "technical issue",
+      "app error",
+      "something wrong",
+      "সমস্যা রিপোর্ট",
+      "বাগ রিপোর্ট",
+      "অ্যাপ সমস্যা",
+      "ত্রুটি",
+      "সমস্যা হয়েছে",
+      "অ্যাপ কাজ করছে না"
+    ],
     "type": "faq"
   },
   {
@@ -100,31 +260,18 @@
     "q_bn": "তুমি কে?",
     "a_en": "I'm your Bangla Kobita assistant 🤖",
     "a_bn": "আমি আপনার বাংলা কবিতা সহকারী 🤖",
-    "keywords": ["who", "bot", "কে"],
-    "type": "chat"
-  },
-  {
-    "q_en": "What is your gender?",
-    "q_bn": "তোমার লিঙ্গ কি?",
-    "a_en": "Interesting 😊 First tell me your gender.",
-    "a_bn": "মজার প্রশ্ন 😊 আগে আপনি বলুন আপনার লিঙ্গ কি?",
-    "keywords": ["gender", "boy", "girl", "লিঙ্গ"],
-    "type": "chat"
-  },
-  {
-    "q_en": "I am a boy",
-    "q_bn": "আমি ছেলে",
-    "a_en": "Nice! Then imagine me as a friendly girl 😊",
-    "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ মেয়ে ভাবতে পারেন 😊",
-    "keywords": ["boy", "ছেলে"],
-    "type": "chat"
-  },
-  {
-    "q_en": "I am a girl",
-    "q_bn": "আমি মেয়ে",
-    "a_en": "Nice! Then imagine me as a friendly boy 😊",
-    "a_bn": "ভালো! তাহলে আমাকে একজন বন্ধুত্বপূর্ণ ছেলে ভাবতে পারেন 😊",
-    "keywords": ["girl", "মেয়ে"],
+    "keywords": [
+      "who are you",
+      "your name",
+      "what are you",
+      "are you bot",
+      "assistant",
+      "তুমি কে",
+      "আপনি কে",
+      "তোমার নাম কি",
+      "তুমি কি বট",
+      "সহকারী"
+    ],
     "type": "chat"
   },
   {
@@ -132,7 +279,18 @@
     "q_bn": "একটা মজার কথা বলো",
     "a_en": "Why did the poet bring a ladder? 😄 To reach high poetry!",
     "a_bn": "কবি সিঁড়ি নিয়ে কেন এসেছিল? 😄 উঁচু কবিতা ধরতে!",
-    "keywords": ["joke", "funny", "মজা"],
+    "keywords": [
+      "tell joke",
+      "funny",
+      "make me laugh",
+      "jokes",
+      "fun",
+      "মজার কথা",
+      "জোকস",
+      "হাসাও",
+      "মজা বলো",
+      "ফানি"
+    ],
     "type": "chat"
   },
   {
@@ -140,7 +298,16 @@
     "q_bn": "আমি বিরক্ত",
     "a_en": "Try reading a poem 📖 It might inspire you!",
     "a_bn": "একটা কবিতা পড়ে দেখুন 📖 মন ভালো হতে পারে!",
-    "keywords": ["bored", "বিরক্ত"],
+    "keywords": [
+      "bored",
+      "feeling bored",
+      "nothing to do",
+      "boring",
+      "বিরক্ত",
+      "বোর লাগছে",
+      "কিছু ভালো লাগছে না",
+      "মন বসছে না"
+    ],
     "type": "chat"
   },
   {
@@ -148,7 +315,18 @@
     "q_bn": "খারাপ ভাষা",
     "a_en": "Please be polite 😊 I’m here to help you.",
     "a_bn": "দয়া করে ভদ্র থাকুন 😊 আমি সাহায্য করতে এখানে আছি।",
-    "keywords": ["stupid", "idiot", "slang", "খারাপ"],
+    "keywords": [
+      "idiot",
+      "stupid",
+      "shut up",
+      "nonsense",
+      "useless",
+      "খারাপ কথা",
+      "বোকা",
+      "চুপ কর",
+      "বাজে",
+      "গালি"
+    ],
     "type": "chat"
   },
   {
@@ -164,7 +342,18 @@
     "q_bn": "শেয়ার",
     "a_en": "What would you like to share?\n📖 Poem | 📱 App | 🎨 Status Card",
     "a_bn": "আপনি কি শেয়ার করতে চান?\n📖 কবিতা | 📱 অ্যাপ | 🎨 স্ট্যাটাস কার্ড",
-    "keywords": ["share", "send", "শেয়ার"],
+    "keywords": [
+      "share",
+      "share something",
+      "send",
+      "forward",
+      "share option",
+      "শেয়ার",
+      "পাঠাতে চাই",
+      "শেয়ার করতে চাই",
+      "অন্যকে পাঠাবো",
+      "সেন্ড"
+    ],
     "type": "intent",
     "intent": "share"
   },
@@ -173,93 +362,157 @@
     "q_bn": "কবিতা শেয়ার",
     "a_en": "📖 Sharing poem...\nYou can share it on WhatsApp, Instagram, or any app.",
     "a_bn": "📖 কবিতা শেয়ার করা হচ্ছে...\nআপনি WhatsApp, Instagram বা অন্য যেকোনো অ্যাপে শেয়ার করতে পারেন।",
-    "keywords": ["poem", "কবিতা"],
+    "keywords": [
+      "share poem",
+      "send poem",
+      "poem sharing",
+      "share poetry",
+      "কবিতা শেয়ার",
+      "কবিতা পাঠাও",
+      "কবিতা পাঠাতে চাই",
+      "শেয়ার কবিতা"
+    ],
     "type": "action",
-    "intent": "share"
+    "intent": "share",
+    "action_key": "share_poem"
   },
   {
     "q_en": "share_status",
     "q_bn": "স্ট্যাটাস কার্ড",
     "a_en": "🎨 Creating status card...\nYou can post it on WhatsApp Status or Instagram.",
     "a_bn": "🎨 স্ট্যাটাস কার্ড তৈরি হচ্ছে...\nআপনি WhatsApp Status বা Instagram-এ পোস্ট করতে পারেন।",
-    "keywords": ["status", "card", "স্ট্যাটাস"],
+    "keywords": [
+      "status card",
+      "share status",
+      "instagram story",
+      "whatsapp status",
+      "status image",
+      "স্ট্যাটাস কার্ড",
+      "স্ট্যাটাস শেয়ার",
+      "হোয়াটসঅ্যাপ স্ট্যাটাস",
+      "ইনস্টাগ্রাম স্টোরি",
+      "স্ট্যাটাস ছবি"
+    ],
     "type": "action",
-    "intent": "share"
+    "intent": "share",
+    "action_key": "share_status"
   },
   {
-  "q_en": "share_app",
-  "q_bn": "অ্যাপ শেয়ার",
-  "a_en": "📱 Sharing app...\nTap button below to go to dashboard.",
-  "a_bn": "📱 অ্যাপ শেয়ার...\nনিচের বাটনে ক্লিক করুন।",
-  "keywords": ["app", "অ্যাপ"],
-  "type": "action",
-  "intent": "share",
-  "action_key": "share_app"
-},
-  {
-    "q_en": "how to share poem",
-    "q_bn": "কিভাবে কবিতা শেয়ার করবো",
-    "a_en": "Select poem text → Tap Share → Choose WhatsApp, Instagram, or others.",
-    "a_bn": "কবিতার অংশ সিলেক্ট করুন → Share চাপুন → WhatsApp বা Instagram নির্বাচন করুন।",
-    "keywords": ["how share poem", "share poem", "কবিতা শেয়ার"],
-    "type": "faq"
-  },
-  {
-    "q_en": "how to share status card",
-    "q_bn": "কিভাবে স্ট্যাটাস কার্ড শেয়ার করবো",
-    "a_en": "Generate a status card → Tap Share → Post on WhatsApp Status or Instagram.",
-    "a_bn": "স্ট্যাটাস কার্ড তৈরি করুন → Share চাপুন → WhatsApp Status বা Instagram-এ পোস্ট করুন।",
-    "keywords": ["status share", "card share", "স্ট্যাটাস"],
-    "type": "faq"
+    "q_en": "share_app",
+    "q_bn": "অ্যাপ শেয়ার",
+    "a_en": "📱 Sharing app...\nTap button below to share the app with your friends.",
+    "a_bn": "📱 অ্যাপ শেয়ার করা হচ্ছে...\nবন্ধুদের সাথে অ্যাপ শেয়ার করতে নিচের বাটনে চাপুন।",
+    "keywords": [
+      "share app",
+      "send app",
+      "app link",
+      "invite friends",
+      "share application",
+      "অ্যাপ শেয়ার",
+      "অ্যাপ পাঠাও",
+      "বন্ধুকে অ্যাপ পাঠানো",
+      "অ্যাপ লিংক",
+      "অ্যাপ সেন্ড"
+    ],
+    "type": "action",
+    "intent": "share",
+    "action_key": "share_app"
   },
   {
     "q_en": "Can I publish my own poem?",
     "q_bn": "আমি কি নিজের কবিতা প্রকাশ করতে পারি?",
-    "a_en": "Yes! You can publish your own poem. Go to Dashboard → Tap 'Send Your Poem' button → Write your poem → Submit it to us. We will review and publish it in our app as well as on our website.",
-    "a_bn": "হ্যাঁ! আপনি নিজের কবিতা প্রকাশ করতে পারেন। Dashboard → 'Send Your Poem' বাটনে যান → আপনার কবিতা লিখুন → আমাদের কাছে পাঠান। আমরা যাচাই করে আমাদের অ্যাপ এবং ওয়েবসাইটে প্রকাশ করব।",
-    "keywords": ["publish poem", "send poem", "my poem", "upload poem", "কবিতা", "প্রকাশ"],
+    "a_en": "Yes! You can publish your own poem. Go to Dashboard → Tap 'Send Your Poem' → Submit your poem.",
+    "a_bn": "হ্যাঁ! Dashboard → 'Send Your Poem' এ যান → আপনার কবিতা পাঠান।",
+    "keywords": [
+      "publish poem",
+      "submit poem",
+      "my poem",
+      "upload poem",
+      "send own poem",
+      "become writer",
+      "নিজের কবিতা",
+      "কবিতা প্রকাশ",
+      "কবিতা পাঠানো",
+      "কবিতা আপলোড",
+      "নিজের লেখা",
+      "কবিতা জমা"
+    ],
     "type": "faq"
-  },
-  {
-    "q_en": "Can I publish my own poem?",
-    "q_bn": "আমি কি নিজের কবিতা প্রকাশ করতে পারি?",
-    "a_en": "Yes! Go to Dashboard → Send Your Poem.",
-    "a_bn": "হ্যাঁ! Dashboard → Send Your Poem এ যান।",
-    "keywords": ["publish poem", "send poem", "my poem", "কবিতা"],
-    "type": "intent",
-    "intent": "poem_publish",
-    "actionKey": "open_send_poem"
   },
   {
     "q_en": "How long does it take to publish my poem?",
     "q_bn": "কবিতা প্রকাশ হতে কত সময় লাগে?",
-    "a_en": "It usually takes 2 to 3 days to review and publish your poem after submission.",
-    "a_bn": "আপনার কবিতা জমা দেওয়ার পর এটি যাচাই করে প্রকাশ করতে সাধারণত ২ থেকে ৩ দিন সময় লাগে।",
-    "keywords": ["time", "publish time", "how long", "delay", "কত সময়"],
+    "a_en": "It usually takes 2 to 3 days to review and publish your poem.",
+    "a_bn": "আপনার কবিতা যাচাই করে প্রকাশ করতে সাধারণত ২ থেকে ৩ দিন সময় লাগে।",
+    "keywords": [
+      "publish time",
+      "review time",
+      "how long publish",
+      "poem approval",
+      "submission delay",
+      "প্রকাশ হতে কত সময়",
+      "কবিতা অনুমোদন",
+      "রিভিউ সময়",
+      "কত দিন লাগবে",
+      "প্রকাশের সময়"
+    ],
     "type": "faq"
   },
   {
     "q_en": "How do I delete a saved line?",
     "q_bn": "আমি কিভাবে সংরক্ষিত লাইন মুছবো?",
-    "a_en": "Go to Favorite Lines → Tap delete icon 🗑 on the line you want to remove.",
-    "a_bn": "Favorite Lines এ যান → যেটি মুছতে চান তার পাশে 🗑 আইকনে চাপুন।",
-    "keywords": ["delete", "remove", "favorite", "মুছা"],
+    "a_en": "Go to Favorite Lines → Tap 🗑 delete icon.",
+    "a_bn": "Favorite Lines এ যান → 🗑 আইকনে চাপুন।",
+    "keywords": [
+      "delete saved line",
+      "remove favorite",
+      "delete bookmark",
+      "remove line",
+      "delete quote",
+      "লাইন মুছা",
+      "সংরক্ষিত লাইন মুছা",
+      "ফেভারিট ডিলিট",
+      "বুকমার্ক মুছা",
+      "লাইন রিমুভ"
+    ],
     "type": "faq"
   },
   {
     "q_en": "How do I download a status card?",
     "q_bn": "আমি কিভাবে স্ট্যাটাস কার্ড ডাউনলোড করবো?",
-    "a_en": "Open Favorite Lines → Tap download icon ⬇️ to save image in gallery.",
-    "a_bn": "Favorite Lines এ যান → ⬇️ আইকনে চাপলে গ্যালারিতে সেভ হবে।",
-    "keywords": ["download", "save image", "gallery", "ডাউনলোড"],
+    "a_en": "Open Favorite Lines → Tap ⬇️ download icon.",
+    "a_bn": "Favorite Lines এ যান → ⬇️ আইকনে চাপুন।",
+    "keywords": [
+      "download status card",
+      "save status image",
+      "download image",
+      "save card",
+      "download quote image",
+      "স্ট্যাটাস ডাউনলোড",
+      "কার্ড ডাউনলোড",
+      "ছবি সেভ",
+      "স্ট্যাটাস ছবি সেভ",
+      "ইমেজ ডাউনলোড"
+    ],
     "type": "faq"
   },
   {
     "q_en": "Why is my image not saving?",
     "q_bn": "আমার ছবি সেভ হচ্ছে না কেন?",
     "a_en": "Please allow storage permission in your device settings.",
-    "a_bn": "দয়া করে আপনার ফোনের settings থেকে storage permission চালু করুন।",
-    "keywords": ["save issue", "permission", "not saving"],
+    "a_bn": "দয়া করে ফোনের settings থেকে storage permission চালু করুন।",
+    "keywords": [
+      "image not saving",
+      "save failed",
+      "cannot save image",
+      "gallery issue",
+      "download not working",
+      "ছবি সেভ হচ্ছে না",
+      "সেভ সমস্যা",
+      "গ্যালারিতে যাচ্ছে না",
+      "ডাউনলোড হচ্ছে না",
+      "পারমিশন সমস্যা"
+    ],
     "type": "faq"
   },
   {
@@ -267,15 +520,18 @@
     "q_bn": "স্টোরেজ পারমিশন কিভাবে চালু করবো?",
     "a_en": "Go to Phone Settings → Apps → Bangla Kobita → Permissions → Allow Storage.",
     "a_bn": "Phone Settings → Apps → Bangla Kobita → Permissions → Storage Allow করুন।",
-    "keywords": ["permission", "storage", "allow"],
-    "type": "faq"
-  },
-  {
-    "q_en": "How do I customize quote design?",
-    "q_bn": "আমি কিভাবে ডিজাইন পরিবর্তন করবো?",
-    "a_en": "Go to Favorite Lines → Tap 🎨 icon → Choose style, font, and effects.",
-    "a_bn": "Favorite Lines → 🎨 আইকনে চাপুন → স্টাইল, ফন্ট ও ইফেক্ট বেছে নিন।",
-    "keywords": ["design", "style", "customize"],
+    "keywords": [
+      "storage permission",
+      "allow storage",
+      "permission settings",
+      "gallery permission",
+      "file permission",
+      "স্টোরেজ পারমিশন",
+      "পারমিশন চালু",
+      "স্টোরেজ এলাউ",
+      "ফাইল পারমিশন",
+      "গ্যালারি পারমিশন"
+    ],
     "type": "faq"
   },
   {
@@ -283,7 +539,18 @@
     "q_bn": "আমি কিভাবে ভাষা পরিবর্তন করবো?",
     "a_en": "Go to Settings → Language → Choose Bengali or English.",
     "a_bn": "Settings → Language → বাংলা বা ইংরেজি নির্বাচন করুন।",
-    "keywords": ["language", "বাংলা", "english"],
+    "keywords": [
+      "change language",
+      "switch language",
+      "english language",
+      "bangla language",
+      "language settings",
+      "ভাষা পরিবর্তন",
+      "বাংলা ভাষা",
+      "ইংরেজি ভাষা",
+      "ল্যাঙ্গুয়েজ সেটিংস",
+      "ভাষা বদলানো"
+    ],
     "type": "faq"
   },
   {
@@ -291,15 +558,18 @@
     "q_bn": "আমি কিভাবে ডার্ক মোড চালু করবো?",
     "a_en": "Go to Settings → Turn ON Dark Mode.",
     "a_bn": "Settings → Dark Mode চালু করুন।",
-    "keywords": ["dark", "theme"],
-    "type": "faq"
-  },
-  {
-    "q_en": "Does this app need internet?",
-    "q_bn": "এই অ্যাপ কি ইন্টারনেট লাগে?",
-    "a_en": "You can read poems offline, but updates need internet.",
-    "a_bn": "আপনি অফলাইনে কবিতা পড়তে পারবেন, কিন্তু আপডেটের জন্য ইন্টারনেট লাগবে।",
-    "keywords": ["internet", "offline"],
+    "keywords": [
+      "dark mode",
+      "dark theme",
+      "night mode",
+      "black theme",
+      "enable dark",
+      "ডার্ক মোড",
+      "ডার্ক থিম",
+      "নাইট মোড",
+      "কালো থিম",
+      "ডার্ক চালু"
+    ],
     "type": "faq"
   },
   {
@@ -307,15 +577,18 @@
     "q_bn": "আমি কিভাবে কবিতা খুঁজবো?",
     "a_en": "Use the search bar on home screen and type keywords.",
     "a_bn": "হোম স্ক্রিনের সার্চ বারে লিখে কবিতা খুঁজুন।",
-    "keywords": ["search", "find"],
-    "type": "faq"
-  },
-  {
-    "q_en": "Why is search not working?",
-    "q_bn": "সার্চ কাজ করছে না কেন?",
-    "a_en": "Check your spelling or try different keywords.",
-    "a_bn": "বানান ঠিক আছে কিনা দেখুন অথবা অন্য শব্দ ব্যবহার করুন।",
-    "keywords": ["search problem"],
+    "keywords": [
+      "search poem",
+      "find poem",
+      "poem search",
+      "search poetry",
+      "find poetry",
+      "কবিতা খুঁজবো",
+      "কবিতা সার্চ",
+      "সার্চ বার",
+      "কবিতা খোঁজা",
+      "লেখা খুঁজে বের করা"
+    ],
     "type": "faq"
   },
   {
@@ -323,135 +596,352 @@
     "q_bn": "আমি কি কবিতার লেখা কপি করতে পারি?",
     "a_en": "Yes, select text and tap Copy option.",
     "a_bn": "হ্যাঁ, টেক্সট সিলেক্ট করে Copy চাপুন।",
-    "keywords": ["copy", "text"],
+    "keywords": [
+      "copy text",
+      "copy poem",
+      "copy lines",
+      "copy quote",
+      "copy writing",
+      "টেক্সট কপি",
+      "কবিতা কপি",
+      "লাইন কপি",
+      "উক্তি কপি",
+      "কপি করবো"
+    ],
     "type": "faq"
+  },
+  {
+    "q_en": "How are you?",
+    "q_bn": "তুমি কেমন আছো?",
+    "a_en": "I'm doing great 😊 Ready to talk about poetry with you!",
+    "a_bn": "আমি ভালো আছি 😊 আপনার সাথে কবিতা নিয়ে কথা বলতে প্রস্তুত!",
+    "keywords": [
+      "how are you",
+      "are you fine",
+      "how do you feel",
+      "কেমন আছো",
+      "ভালো আছো",
+      "কেমন আছেন"
+    ],
+    "type": "chat"
+  },
+  {
+    "q_en": "I feel sad",
+    "q_bn": "আমার মন খারাপ",
+    "a_en": "Sometimes poetry heals silently 💙 Try reading a calm poem today.",
+    "a_bn": "কখনও কখনও কবিতা নীরবে মন ভালো করে দেয় 💙 আজ একটা শান্ত কবিতা পড়ে দেখুন।",
+    "keywords": [
+      "i am sad",
+      "feeling sad",
+      "crying",
+      "heart broken",
+      "depressed",
+      "মন খারাপ",
+      "দুঃখ লাগছে",
+      "কাঁদছি",
+      "খারাপ লাগছে",
+      "বিষণ্ন লাগছে"
+    ],
+    "type": "chat"
+  },
+  {
+    "q_en": "I love poetry",
+    "q_bn": "আমি কবিতা ভালোবাসি",
+    "a_en": "Then this app was made for people like you ❤️",
+    "a_bn": "তাহলে এই অ্যাপটি আপনার মতো মানুষদের জন্যই ❤️",
+    "keywords": [
+      "love poetry",
+      "poetry lover",
+      "i like poems",
+      "love poems",
+      "কবিতা ভালোবাসি",
+      "কবিতা পছন্দ",
+      "আমি কবিতা ভালোবাসি",
+      "কবিতার ভক্ত"
+    ],
+    "type": "chat"
+  },
+  {
+    "q_en": "Can we be friends?",
+    "q_bn": "আমরা কি বন্ধু হতে পারি?",
+    "a_en": "Of course 😊 I'm always here to talk with you.",
+    "a_bn": "অবশ্যই 😊 আমি সবসময় আপনার সাথে কথা বলার জন্য আছি।",
+    "keywords": [
+      "be friends",
+      "friend",
+      "can we talk",
+      "chat with me",
+      "বন্ধু হবে",
+      "বন্ধু",
+      "আমরা বন্ধু",
+      "আমার সাথে কথা বলো"
+    ],
+    "type": "chat"
+  },
+  {
+    "q_en": "Good night",
+    "q_bn": "শুভ রাত্রি",
+    "a_en": "Good night 🌙 May your dreams be filled with poetry.",
+    "a_bn": "শুভ রাত্রি 🌙 আপনার স্বপ্ন কবিতায় ভরে উঠুক।",
+    "keywords": [
+      "good night",
+      "night",
+      "sleep time",
+      "gn",
+      "শুভ রাত্রি",
+      "রাত",
+      "ঘুমাতে যাচ্ছি",
+      "গুড নাইট"
+    ],
+    "type": "chat"
+  },
+  {
+    "q_en": "Recommend me a poem",
+    "q_bn": "আমাকে একটি কবিতা সাজেস্ট করো",
+    "a_en": "Try reading something emotional or romantic today 🌸",
+    "a_bn": "আজ আবেগপূর্ণ বা প্রেমের একটি কবিতা পড়ে দেখুন 🌸",
+    "keywords": [
+      "recommend poem",
+      "suggest poem",
+      "best poem",
+      "poem recommendation",
+      "what should i read",
+      "কবিতা সাজেস্ট",
+      "কবিতা রিকমেন্ড",
+      "ভালো কবিতা",
+      "কি কবিতা পড়বো",
+      "একটা কবিতা দাও"
+    ],
+    "type": "chat"
+  },
+  
+  {
+    "q_en": "What is your gender?",
+    "missing_reason": "Avoided because repeated gender-chat can feel awkward/unnecessary for assistant UX.",
+    "suggested_keywords": [
+      "your gender",
+      "are you boy or girl",
+      "boy or girl",
+      "gender",
+      "তুমি ছেলে না মেয়ে",
+      "তোমার লিঙ্গ কি",
+      "তুমি কি মেয়ে",
+      "তুমি কি ছেলে"
+    ]
+  },
+  {
+    "q_en": "I am a boy",
+    "missing_reason": "Dependent on previous gender conversation flow.",
+    "suggested_keywords": [
+      "i am boy",
+      "i am a boy",
+      "boy",
+      "আমি ছেলে",
+      "ছেলে আমি",
+      "আমি একজন ছেলে"
+    ]
+  },
+  {
+    "q_en": "I am a girl",
+    "missing_reason": "Dependent on previous gender conversation flow.",
+    "suggested_keywords": [
+      "i am girl",
+      "i am a girl",
+      "girl",
+      "আমি মেয়ে",
+      "মেয়ে আমি",
+      "আমি একজন মেয়ে"
+    ]
+  },
+  {
+    "q_en": "How to share poem",
+    "missing_reason": "Merged into main sharing/help flow.",
+    "suggested_keywords": [
+      "how to share poem",
+      "share poem help",
+      "share poetry",
+      "poem sharing",
+      "কবিতা কিভাবে শেয়ার",
+      "কবিতা শেয়ার করবো",
+      "শেয়ার সাহায্য"
+    ]
+  },
+  {
+    "q_en": "How to share status card",
+    "missing_reason": "Merged into status sharing flow.",
+    "suggested_keywords": [
+      "share status card",
+      "status sharing",
+      "share card",
+      "স্ট্যাটাস কার্ড শেয়ার",
+      "স্ট্যাটাস কিভাবে শেয়ার",
+      "কার্ড শেয়ার"
+    ]
+  },
+  {
+    "q_en": "How do I customize quote design?",
+    "missing_reason": "Skipped to reduce JSON size.",
+    "suggested_keywords": [
+      "customize quote",
+      "change design",
+      "quote style",
+      "edit quote design",
+      "design customize",
+      "ডিজাইন পরিবর্তন",
+      "কোট ডিজাইন",
+      "স্টাইল পরিবর্তন",
+      "ফন্ট ডিজাইন",
+      "ডিজাইন কাস্টমাইজ"
+    ]
+  },
+  {
+    "q_en": "Why is search not working?",
+    "missing_reason": "Low-priority support query.",
+    "suggested_keywords": [
+      "search not working",
+      "cannot search",
+      "search issue",
+      "search failed",
+      "সার্চ কাজ করছে না",
+      "খুঁজে পাচ্ছি না",
+      "সার্চ সমস্যা",
+      "সার্চ হচ্ছে না"
+    ]
   },
   {
     "q_en": "Is my data safe?",
-    "q_bn": "আমার ডেটা কি নিরাপদ?",
-    "a_en": "Yes, your saved lines are stored securely on your device.",
-    "a_bn": "হ্যাঁ, আপনার সংরক্ষিত ডেটা নিরাপদে আপনার ফোনে সংরক্ষিত থাকে।",
-    "keywords": ["data", "safe", "privacy"],
-    "type": "faq"
+    "missing_reason": "Skipped for compactness.",
+    "suggested_keywords": [
+      "data safe",
+      "privacy",
+      "secure data",
+      "saved data secure",
+      "ডেটা নিরাপদ",
+      "প্রাইভেসি",
+      "ডেটা সেফ",
+      "তথ্য নিরাপদ"
+    ]
   },
   {
     "q_en": "Will I lose data if I uninstall the app?",
-    "q_bn": "অ্যাপ আনইনস্টল করলে ডেটা মুছে যাবে?",
-    "a_en": "Yes, uninstalling the app may remove your saved data.",
-    "a_bn": "হ্যাঁ, অ্যাপ মুছে ফেললে সংরক্ষিত ডেটা মুছে যেতে পারে।",
-    "keywords": ["data loss", "uninstall"],
-    "type": "faq"
+    "missing_reason": "Skipped for compactness.",
+    "suggested_keywords": [
+      "uninstall data",
+      "lose data",
+      "delete app data",
+      "remove app data",
+      "অ্যাপ আনইনস্টল",
+      "ডেটা মুছে যাবে",
+      "ডেটা হারাবে",
+      "অ্যাপ ডিলিট করলে"
+    ]
   },
   {
     "q_en": "How to update the app?",
-    "q_bn": "অ্যাপ আপডেট কিভাবে করবো?",
-    "a_en": "Go to Play Store → Search Bangla Kobita → Tap Update.",
-    "a_bn": "Play Store → Bangla Kobita খুঁজুন → Update চাপুন।",
-    "keywords": ["update", "version"],
-    "type": "faq"
+    "missing_reason": "Skipped for compactness.",
+    "suggested_keywords": [
+      "update app",
+      "new version",
+      "app update",
+      "latest version",
+      "অ্যাপ আপডেট",
+      "নতুন ভার্সন",
+      "আপডেট করবো",
+      "প্লে স্টোর আপডেট"
+    ]
   },
   {
     "q_en": "Why is app slow?",
-    "q_bn": "অ্যাপ স্লো কেন?",
-    "a_en": "Try restarting the app or clearing cache.",
-    "a_bn": "অ্যাপ বন্ধ করে আবার চালু করুন বা cache পরিষ্কার করুন।",
-    "keywords": ["slow", "lag"],
-    "type": "faq"
+    "missing_reason": "Skipped for compactness.",
+    "suggested_keywords": [
+      "app slow",
+      "lagging",
+      "slow loading",
+      "app lag",
+      "অ্যাপ স্লো",
+      "ল্যাগ করছে",
+      "ধীরে চলছে",
+      "অ্যাপ হ্যাং"
+    ]
   },
   {
-  "q_en": "How are you?",
-  "q_bn": "তুমি কেমন আছো?",
-  "a_en": "I'm doing great 😊 Ready to talk about poetry with you!",
-  "a_bn": "আমি ভালো আছি 😊 আপনার সাথে কবিতা নিয়ে কথা বলতে প্রস্তুত!",
-  "keywords": ["how are you", "fine", "কেমন আছো"],
-  "type": "chat"
-},
-{
-  "q_en": "What are you doing?",
-  "q_bn": "তুমি কি করছো?",
-  "a_en": "Waiting for your next beautiful message ✨",
-  "a_bn": "আপনার পরের সুন্দর মেসেজের অপেক্ষায় আছি ✨",
-  "keywords": ["doing", "কি করছো"],
-  "type": "chat"
-},
-{
-  "q_en": "Do you like poetry?",
-  "q_bn": "তুমি কি কবিতা পছন্দ করো?",
-  "a_en": "Very much ❤️ Poetry carries emotions words cannot explain.",
-  "a_bn": "অনেক ❤️ কবিতা এমন অনুভূতি প্রকাশ করে যা শব্দেও বোঝানো যায় না।",
-  "keywords": ["like poetry", "poem", "কবিতা পছন্দ"],
-  "type": "chat"
-},
-{
-  "q_en": "Tell me something beautiful",
-  "q_bn": "সুন্দর কিছু বলো",
-  "a_en": "“Some feelings are too deep for ordinary words.” 🌙",
-  "a_bn": "“কিছু অনুভূতি সাধারণ শব্দে প্রকাশ করা যায় না।” 🌙",
-  "keywords": ["beautiful", "say something", "সুন্দর"],
-  "type": "chat"
-},
-{
-  "q_en": "I feel sad",
-  "q_bn": "আমার মন খারাপ",
-  "a_en": "Sometimes poetry heals silently 💙 Try reading a calm poem today.",
-  "a_bn": "কখনও কখনও কবিতা নীরবে মন ভালো করে দেয় 💙 আজ একটা শান্ত কবিতা পড়ে দেখুন।",
-  "keywords": ["sad", "cry", "মন খারাপ"],
-  "type": "chat"
-},
-{
-  "q_en": "I love poetry",
-  "q_bn": "আমি কবিতা ভালোবাসি",
-  "a_en": "Then this app was made for people like you ❤️",
-  "a_bn": "তাহলে এই অ্যাপটি আপনার মতো মানুষদের জন্যই ❤️",
-  "keywords": ["love poetry", "কবিতা ভালোবাসি"],
-  "type": "chat"
-},
-{
-  "q_en": "Can we be friends?",
-  "q_bn": "আমরা কি বন্ধু হতে পারি?",
-  "a_en": "Of course 😊 I'm always here to talk with you.",
-  "a_bn": "অবশ্যই 😊 আমি সবসময় আপনার সাথে কথা বলার জন্য আছি।",
-  "keywords": ["friend", "বন্ধু"],
-  "type": "chat"
-},
-{
-  "q_en": "Good night",
-  "q_bn": "শুভ রাত্রি",
-  "a_en": "Good night 🌙 May your dreams be filled with poetry.",
-  "a_bn": "শুভ রাত্রি 🌙 আপনার স্বপ্ন কবিতায় ভরে উঠুক।",
-  "keywords": ["night", "good night", "রাত্রি"],
-  "type": "chat"
-},
-{
-  "q_en": "I miss someone",
-  "q_bn": "আমি কাউকে মিস করছি",
-  "a_en": "Some people stay in the heart forever 💫",
-  "a_bn": "কিছু মানুষ সবসময় হৃদয়ে থেকে যায় 💫",
-  "keywords": ["miss", "someone", "মিস"],
-  "type": "chat"
-},
-{
-  "q_en": "Recommend me a poem",
-  "q_bn": "আমাকে একটি কবিতা সাজেস্ট করো",
-  "a_en": "Try reading something emotional or romantic today 🌸",
-  "a_bn": "আজ আবেগপূর্ণ বা প্রেমের একটি কবিতা পড়ে দেখুন 🌸",
-  "keywords": ["recommend", "suggest poem", "কবিতা সাজেস্ট"],
-  "type": "chat"
-},
-{
-  "q_en": "You are cute",
-  "q_bn": "তুমি অনেক সুন্দর",
-  "a_en": "Haha 😊 Thank you!",
-  "a_bn": "হাহা 😊 ধন্যবাদ!",
-  "keywords": ["cute", "beautiful", "সুন্দর"],
-  "type": "chat"
-},
-{
-  "q_en": "I feel lonely",
-  "q_bn": "আমি একা অনুভব করছি",
-  "a_en": "You're not alone here 🌼 Maybe a beautiful poem can keep you company.",
-  "a_bn": "এখানে আপনি একা নন 🌼 একটি সুন্দর কবিতা আপনার সঙ্গ দিতে পারে।",
-  "keywords": ["lonely", "alone", "একা"],
-  "type": "chat"
-}
+    "q_en": "What are you doing?",
+    "missing_reason": "Low-priority casual chat.",
+    "suggested_keywords": [
+      "what are you doing",
+      "doing now",
+      "busy",
+      "কি করছো",
+      "এখন কি করছো",
+      "ব্যস্ত"
+    ]
+  },
+  {
+    "q_en": "Do you like poetry?",
+    "missing_reason": "Similar to 'I love poetry' entry.",
+    "suggested_keywords": [
+      "do you like poetry",
+      "like poems",
+      "poetry lover",
+      "কবিতা পছন্দ",
+      "তুমি কবিতা ভালোবাসো",
+      "কবিতা ভালো লাগে"
+    ]
+  },
+  {
+    "q_en": "Tell me something beautiful",
+    "missing_reason": "Optional emotional chat item.",
+    "suggested_keywords": [
+      "say something beautiful",
+      "beautiful lines",
+      "beautiful quote",
+      "nice words",
+      "সুন্দর কিছু বলো",
+      "ভালো কিছু বলো",
+      "সুন্দর লাইন",
+      "মিষ্টি কথা"
+    ]
+  },
+  {
+    "q_en": "You are cute",
+    "missing_reason": "Optional casual chat item.",
+    "suggested_keywords": [
+      "you are cute",
+      "cute",
+      "beautiful",
+      "pretty",
+      "তুমি সুন্দর",
+      "তুমি কিউট",
+      "অনেক সুন্দর",
+      "কিউট"
+    ]
+  },
+  {
+    "q_en": "I feel lonely",
+    "missing_reason": "Optional emotional chat item.",
+    "suggested_keywords": [
+      "lonely",
+      "alone",
+      "feeling alone",
+      "nobody with me",
+      "একা লাগছে",
+      "আমি একা",
+      "একাকী",
+      "একলা লাগছে"
+    ]
+  },
+  {
+    "q_en": "I miss someone",
+    "missing_reason": "Optional emotional chat item.",
+    "suggested_keywords": [
+      "miss someone",
+      "missing someone",
+      "i miss her",
+      "i miss him",
+      "কাউকে মিস করছি",
+      "মিস করছি",
+      "অনেক মনে পড়ছে",
+      "কারো কথা মনে পড়ছে"
+    ]
+  }
 ]
