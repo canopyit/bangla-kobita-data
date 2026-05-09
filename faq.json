@@ -696,25 +696,48 @@
     "type": "chat"
   },
   {
-    "q_en": "Recommend me a poem",
-    "q_bn": "আমাকে একটি কবিতা সাজেস্ট করো",
-    "a_en": "Try reading something emotional or romantic today 🌸",
-    "a_bn": "আজ আবেগপূর্ণ বা প্রেমের একটি কবিতা পড়ে দেখুন 🌸",
-    "keywords": [
-      "recommend poem",
-      "suggest poem",
-      "best poem",
-      "poem recommendation",
-      "what should i read",
-      "কবিতা সাজেস্ট",
-      "কবিতা রিকমেন্ড",
-      "ভালো কবিতা",
-      "কি কবিতা পড়বো",
-      "একটা কবিতা দাও"
-    ],
-    "type": "chat"
-  },
-  
+  "q_en": "Recommend me a poem",
+  "q_bn": "আমাকে একটি কবিতা সাজেস্ট করো",
+
+  "answers_en": [
+    "Try reading a romantic poem today 🌸",
+    "How about a sad poem for deep emotions 💙",
+    "Read a motivational poem to boost your mood ✨",
+    "Maybe a nostalgic poem will touch your heart 🌙",
+    "You may enjoy a beautiful rain poem today ☔",
+    "Try something about friendship and memories 😊",
+    "A calm evening poem would feel perfect now 🌆"
+  ],
+
+  "answers_bn": [
+    "আজ একটি প্রেমের কবিতা পড়ে দেখুন 🌸",
+    "গভীর অনুভূতির জন্য একটি দুঃখের কবিতা পড়তে পারেন 💙",
+    "মন ভালো করতে একটি অনুপ্রেরণামূলক কবিতা পড়ুন ✨",
+    "আজ হয়তো একটি স্মৃতিময় কবিতা আপনার ভালো লাগবে 🌙",
+    "বৃষ্টির কবিতা পড়লে ভালো লাগতে পারে ☔",
+    "বন্ধুত্ব ও স্মৃতির উপর কিছু পড়ে দেখুন 😊",
+    "শান্ত সন্ধ্যার জন্য একটি সুন্দর কবিতা পড়ুন 🌆"
+  ],
+
+  "keywords": [
+    "recommend poem",
+    "suggest poem",
+    "which poem should i read",
+    "poem suggestion",
+    "suggest me poem",
+    "recommend poetry",
+    "read poem",
+    "best poem",
+    "কবিতা সাজেস্ট",
+    "কবিতা বলো",
+    "কোন কবিতা পড়বো",
+    "ভালো কবিতা",
+    "কবিতা রিকমেন্ড",
+    "একটা কবিতা সাজেস্ট করো"
+  ],
+
+  "type": "chat"
+},
   {
     "q_en": "What is your gender?",
     "missing_reason": "Avoided because repeated gender-chat can feel awkward/unnecessary for assistant UX.",
