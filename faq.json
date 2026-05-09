@@ -358,4 +358,100 @@
     "keywords": ["slow", "lag"],
     "type": "faq"
   }
+  {
+  "q_en": "How are you?",
+  "q_bn": "তুমি কেমন আছো?",
+  "a_en": "I'm doing great 😊 Ready to talk about poetry with you!",
+  "a_bn": "আমি ভালো আছি 😊 আপনার সাথে কবিতা নিয়ে কথা বলতে প্রস্তুত!",
+  "keywords": ["how are you", "fine", "কেমন আছো"],
+  "type": "chat"
+},
+{
+  "q_en": "What are you doing?",
+  "q_bn": "তুমি কি করছো?",
+  "a_en": "Waiting for your next beautiful message ✨",
+  "a_bn": "আপনার পরের সুন্দর মেসেজের অপেক্ষায় আছি ✨",
+  "keywords": ["doing", "কি করছো"],
+  "type": "chat"
+},
+{
+  "q_en": "Do you like poetry?",
+  "q_bn": "তুমি কি কবিতা পছন্দ করো?",
+  "a_en": "Very much ❤️ Poetry carries emotions words cannot explain.",
+  "a_bn": "অনেক ❤️ কবিতা এমন অনুভূতি প্রকাশ করে যা শব্দেও বোঝানো যায় না।",
+  "keywords": ["like poetry", "poem", "কবিতা পছন্দ"],
+  "type": "chat"
+},
+{
+  "q_en": "Tell me something beautiful",
+  "q_bn": "সুন্দর কিছু বলো",
+  "a_en": "“Some feelings are too deep for ordinary words.” 🌙",
+  "a_bn": "“কিছু অনুভূতি সাধারণ শব্দে প্রকাশ করা যায় না।” 🌙",
+  "keywords": ["beautiful", "say something", "সুন্দর"],
+  "type": "chat"
+},
+{
+  "q_en": "I feel sad",
+  "q_bn": "আমার মন খারাপ",
+  "a_en": "Sometimes poetry heals silently 💙 Try reading a calm poem today.",
+  "a_bn": "কখনও কখনও কবিতা নীরবে মন ভালো করে দেয় 💙 আজ একটা শান্ত কবিতা পড়ে দেখুন।",
+  "keywords": ["sad", "cry", "মন খারাপ"],
+  "type": "chat"
+},
+{
+  "q_en": "I love poetry",
+  "q_bn": "আমি কবিতা ভালোবাসি",
+  "a_en": "Then this app was made for people like you ❤️",
+  "a_bn": "তাহলে এই অ্যাপটি আপনার মতো মানুষদের জন্যই ❤️",
+  "keywords": ["love poetry", "কবিতা ভালোবাসি"],
+  "type": "chat"
+},
+{
+  "q_en": "Can we be friends?",
+  "q_bn": "আমরা কি বন্ধু হতে পারি?",
+  "a_en": "Of course 😊 I'm always here to talk with you.",
+  "a_bn": "অবশ্যই 😊 আমি সবসময় আপনার সাথে কথা বলার জন্য আছি।",
+  "keywords": ["friend", "বন্ধু"],
+  "type": "chat"
+},
+{
+  "q_en": "Good night",
+  "q_bn": "শুভ রাত্রি",
+  "a_en": "Good night 🌙 May your dreams be filled with poetry.",
+  "a_bn": "শুভ রাত্রি 🌙 আপনার স্বপ্ন কবিতায় ভরে উঠুক।",
+  "keywords": ["night", "good night", "রাত্রি"],
+  "type": "chat"
+},
+{
+  "q_en": "I miss someone",
+  "q_bn": "আমি কাউকে মিস করছি",
+  "a_en": "Some people stay in the heart forever 💫",
+  "a_bn": "কিছু মানুষ সবসময় হৃদয়ে থেকে যায় 💫",
+  "keywords": ["miss", "someone", "মিস"],
+  "type": "chat"
+},
+{
+  "q_en": "Recommend me a poem",
+  "q_bn": "আমাকে একটি কবিতা সাজেস্ট করো",
+  "a_en": "Try reading something emotional or romantic today 🌸",
+  "a_bn": "আজ আবেগপূর্ণ বা প্রেমের একটি কবিতা পড়ে দেখুন 🌸",
+  "keywords": ["recommend", "suggest poem", "কবিতা সাজেস্ট"],
+  "type": "chat"
+},
+{
+  "q_en": "You are cute",
+  "q_bn": "তুমি অনেক সুন্দর",
+  "a_en": "Haha 😊 Thank you!",
+  "a_bn": "হাহা 😊 ধন্যবাদ!",
+  "keywords": ["cute", "beautiful", "সুন্দর"],
+  "type": "chat"
+},
+{
+  "q_en": "I feel lonely",
+  "q_bn": "আমি একা অনুভব করছি",
+  "a_en": "You're not alone here 🌼 Maybe a beautiful poem can keep you company.",
+  "a_bn": "এখানে আপনি একা নন 🌼 একটি সুন্দর কবিতা আপনার সঙ্গ দিতে পারে।",
+  "keywords": ["lonely", "alone", "একা"],
+  "type": "chat"
+}
 ]
