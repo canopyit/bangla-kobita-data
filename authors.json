@@ -44,6 +44,66 @@
     "total_posts": 120
   },
   {
+  "id": "sadat_hossain",
+
+  "name": "Sadat Hossain",
+  "name_bn": "সাদাত হোসাইন",
+
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjexample/sadat-hossain-the-bangla-kobita-app.png",
+
+  "birth": "1984",
+  "birth_date": "1984-08-21",
+  "death": "",
+
+  "bio_en": "Sadat Hossain is a contemporary Bangladeshi novelist, poet, screenwriter, and filmmaker known for his emotionally rich storytelling and modern literary voice. Born in Madaripur, Bangladesh, he gained immense popularity among young Bengali readers through his romantic, philosophical, and psychological narratives. His writing often explores themes of love, loneliness, human emotions, memories, and the complexity of relationships in modern society. Sadat Hossain’s language is simple yet deeply expressive, making his works highly relatable to readers of all ages. Apart from literature, he has also worked in television dramas and filmmaking, which further strengthened his popularity across Bangladesh and West Bengal. His novels such as Arshinagar, Nondini, Andormohol, and Megher Bari have become widely loved among Bengali literature enthusiasts. Through his literary works, Sadat Hossain continues to inspire a new generation of readers with emotional depth, realism, and poetic expression.",
+
+  "bio_bn": "সাদাত হোসাইন একজন সমকালীন বাংলাদেশি ঔপন্যাসিক, কবি, চিত্রনাট্যকার এবং নির্মাতা, যিনি আবেগঘন গল্প বলার ধরণ এবং আধুনিক সাহিত্যিক ভাষার জন্য বিশেষভাবে পরিচিত। বাংলাদেশের মাদারীপুরে জন্মগ্রহণ করা সাদাত হোসাইন প্রেম, নিঃসঙ্গতা, স্মৃতি, মানবিক অনুভূতি এবং আধুনিক সম্পর্কের জটিলতা নিয়ে লেখা উপন্যাসের মাধ্যমে তরুণ পাঠকদের কাছে ব্যাপক জনপ্রিয়তা অর্জন করেন। তাঁর লেখার ভাষা সহজ হলেও গভীর আবেগপূর্ণ, যা সব বয়সের পাঠকের হৃদয় ছুঁয়ে যায়। সাহিত্যচর্চার পাশাপাশি তিনি টেলিভিশন নাটক ও চলচ্চিত্র নির্মাণের সঙ্গেও যুক্ত ছিলেন, যার ফলে বাংলাদেশ ও পশ্চিমবঙ্গ উভয় স্থানেই তাঁর জনপ্রিয়তা বৃদ্ধি পায়। তাঁর ‘আরশিনগর’, ‘নন্দিনী’, ‘অন্দরমহল’ এবং ‘মেঘের বাড়ি’সহ বিভিন্ন উপন্যাস বাংলা সাহিত্যপ্রেমীদের কাছে অত্যন্ত জনপ্রিয়। আবেগ, বাস্তবতা এবং কাব্যিক প্রকাশভঙ্গির মাধ্যমে সাদাত হোসাইন নতুন প্রজন্মের পাঠকদের অনুপ্রাণিত করে চলেছেন।",
+
+  "tags": [
+    "writer",
+    "novelist",
+    "poet",
+    "screenwriter",
+    "bangladeshi author"
+  ],
+
+  "famous_works_en": [
+    "Arshinagar",
+    "Nondini",
+    "Andormohol",
+    "Megher Bari",
+    "Tomake Dekhar Osukh"
+  ],
+
+  "famous_works_bn": [
+    "আরশিনগর",
+    "নন্দিনী",
+    "অন্দরমহল",
+    "মেঘের বাড়ি",
+    "তোমাকে দেখার অসুখ"
+  ],
+
+  "labels": [
+    "sadat hossain",
+    "sadat",
+    "sadat hosen",
+    "sadat hosain",
+    "সাদাত হোসাইন",
+    "সাদাত",
+    "বাংলাদেশি লেখক",
+    "bangladeshi writer",
+    "modern bengali writer"
+  ],
+
+  "categories": [
+    "top10",
+    "modern",
+    "popular"
+  ],
+
+  "total_posts": 45
+},
+  {
     "id": "jasimuddin",
 
     "name": "Jasimuddin",
