@@ -24,6 +24,18 @@
     "isnabin": false
   },
   {
+    "name": "festival",
+    "label": "উৎসব",
+    "data_lable": "festival",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0B3_gIWpjnu3-Sda6F4m3XnXmGlpR5EToLLBT9Kpov8YCVU-I6LwqBgRtt5OWQX8VF7sU8wFVGzWVsW3Ckbpy6Q_7PSxYwCdRm-Wrfkim3l2gy-tcuPa1ejfvMngWb5UtiCJCAf2ci1mG6Ru7Ov2MA3L_3dOIaNRMy88oFYIgUBUcOPp1IjknuKnPSkL/s320/festival%20bangla%20kobita%20app%20download%20sudep%20das.png",
+    "type": "both",
+    "isbanner": false,
+    "iswriter": false,
+    "ismood": true,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
     "name": "rabindranath tagore",
     "label": "রবীন্দ্রনাথ ঠাকুর",
     "data_lable": "rabindranath%20tagor",
