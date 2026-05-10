@@ -44,6 +44,51 @@
     "total_posts": 120
   },
   {
+  "id": "subodh_sarkar",
+
+  "name": "Subodh Sarkar",
+  "name_bn": "সুবোধ সরকার",
+
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZMK-GMRmRNN_o_x8151RYjaf7r5_7A1q9fVZ1TbylREFwU4oKwHYMWV9rNYhxhT-fyFXSZtqn2B1QNaoc6Ru4-o5SxdbJRaQwbL-KbAJqw-Zf3Q10wJQWjdck8caVogjLudzgOYWLaLVI8G5WuYXVp8E5nw_ZaD0fR-pnCvJzR_OdJLdAj4ijhv7AGnh8/s320/subodh_sarkar.jpeg",
+
+  "birth": "1958",
+  "birth_date": "1958-10-30",
+  "death": "",
+
+  "bio_en": "Subodh Sarkar is one of the most influential contemporary Bengali poets, widely admired for his powerful language, social consciousness, and modern poetic expression. Born in 1958 in Krishnanagar, West Bengal, he emerged as a significant literary voice during the late twentieth century. His poetry often reflects themes of humanity, protest, politics, love, urban life, and social inequality. Known for his bold style and emotional depth, Subodh Sarkar has played a major role in bringing modern Bengali poetry closer to younger readers.Beyond poetry, he is also a respected academic and literary speaker. He served as a professor of English literature and participated in numerous international literary festivals and poetry conferences around the world. His works have been translated into several languages, helping Bengali poetry reach a wider global audience.Subodh Sarkar’s poems are celebrated for their simplicity, sharp imagery, and contemporary relevance. Through collections such as Ektu Paa Chaliye Bhai and others, he has continued to inspire readers with poetry that speaks directly to society and human emotions. His contribution to Bengali literature has made him an important figure among modern Bengali poets.",
+
+  "bio_bn": "সুবোধ সরকার সমকালীন বাংলা কবিতার অন্যতম গুরুত্বপূর্ণ ও জনপ্রিয় কবি। ১৯৫৮ সালে পশ্চিমবঙ্গের কৃষ্ণনগরে জন্মগ্রহণ করেন তিনি। আধুনিক বাংলা কবিতায় তাঁর ভাষা, প্রতিবাদী চেতনা, সামাজিক দৃষ্টিভঙ্গি এবং গভীর মানবিক অনুভূতির জন্য তিনি বিশেষভাবে পরিচিত। তাঁর কবিতায় প্রেম, রাজনীতি, সমাজের বৈষম্য, শহুরে জীবন এবং সাধারণ মানুষের সংগ্রামের প্রতিফলন দেখা যায়। শক্তিশালী শব্দচয়ন ও আধুনিক কাব্যভঙ্গির মাধ্যমে সুবোধ সরকার তরুণ প্রজন্মের কাছেও বাংলা কবিতাকে জনপ্রিয় করে তুলেছেন।কবিতার পাশাপাশি তিনি একজন বিশিষ্ট শিক্ষাবিদ ও সাহিত্য বক্তা হিসেবেও পরিচিত। তিনি ইংরেজি সাহিত্যের অধ্যাপক হিসেবে কর্মরত ছিলেন এবং বিশ্বের বিভিন্ন সাহিত্য উৎসব ও কবিতা সম্মেলনে অংশগ্রহণ করেছেন। তাঁর কবিতা বহু ভাষায় অনূদিত হয়েছে, যার ফলে বাংলা কবিতা আন্তর্জাতিক পাঠকের কাছেও পৌঁছে গেছে।সুবোধ সরকারের কবিতা সহজ অথচ তীক্ষ্ণ ভাষা, আধুনিক ভাবনা এবং সমাজসচেতনতার জন্য সমাদৃত। ‘একটু পা চালিয়ে ভাই’ সহ তাঁর বহু কাব্যগ্রন্থ বাংলা সাহিত্যে বিশেষ স্থান অধিকার করে আছে। সমকালীন বাংলা কবিতার জগতে তাঁর অবদান অত্যন্ত গুরুত্বপূর্ণ এবং অনুপ্রেরণাদায়ক।",
+
+  "tags": ["poet", "modern poet", "writer"],
+
+  "famous_works_en": [
+    "Ektu Paa Chaliye Bhai",
+    "Din Guli Rat Guli",
+    "Jerusalem Theke Medinipur",
+    "Dhonno Meyer Naam",
+    "Love in Siberia"
+  ],
+
+  "famous_works_bn": [
+    "একটু পা চালিয়ে ভাই",
+    "দিনগুলি রাতগুলি",
+    "জেরুজালেম থেকে মেদিনীপুর",
+    "ধন্য মেয়ের নাম",
+    "লাভ ইন সাইবেরিয়া"
+  ],
+
+  "labels": [
+    "subodh%20sarkar",
+    "subodh",
+    "sarkar",
+    "subodh sarkar"
+  ],
+
+  "categories": ["top10", "prabin"],
+
+  "total_posts": 40
+},
+  {
   "id": "sadat_hossain",
 
   "name": "Sadat Hossain",
