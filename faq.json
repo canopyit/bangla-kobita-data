@@ -735,13 +735,12 @@
     "কবিতা রিকমেন্ড",
     "একটা কবিতা সাজেস্ট করো"
   ],
-
   "type": "chat"
 },
   {
     "q_en": "What is your gender?",
     "missing_reason": "Avoided because repeated gender-chat can feel awkward/unnecessary for assistant UX.",
-    "suggested_keywords": [
+    "keywords": [
       "your gender",
       "are you boy or girl",
       "boy or girl",
@@ -750,36 +749,39 @@
       "তোমার লিঙ্গ কি",
       "তুমি কি মেয়ে",
       "তুমি কি ছেলে"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "I am a boy",
     "missing_reason": "Dependent on previous gender conversation flow.",
-    "suggested_keywords": [
+    "keywords": [
       "i am boy",
       "i am a boy",
       "boy",
       "আমি ছেলে",
       "ছেলে আমি",
       "আমি একজন ছেলে"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "I am a girl",
     "missing_reason": "Dependent on previous gender conversation flow.",
-    "suggested_keywords": [
+    "keywords": [
       "i am girl",
       "i am a girl",
       "girl",
       "আমি মেয়ে",
       "মেয়ে আমি",
       "আমি একজন মেয়ে"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "How to share poem",
     "missing_reason": "Merged into main sharing/help flow.",
-    "suggested_keywords": [
+    "keywords": [
       "how to share poem",
       "share poem help",
       "share poetry",
@@ -787,24 +789,26 @@
       "কবিতা কিভাবে শেয়ার",
       "কবিতা শেয়ার করবো",
       "শেয়ার সাহায্য"
-    ]
+    ],
+    "type": "faq" 
   },
   {
     "q_en": "How to share status card",
     "missing_reason": "Merged into status sharing flow.",
-    "suggested_keywords": [
+    "keywords": [
       "share status card",
       "status sharing",
       "share card",
       "স্ট্যাটাস কার্ড শেয়ার",
       "স্ট্যাটাস কিভাবে শেয়ার",
       "কার্ড শেয়ার"
-    ]
+    ],
+    "type": "faq" 
   },
   {
     "q_en": "How do I customize quote design?",
     "missing_reason": "Skipped to reduce JSON size.",
-    "suggested_keywords": [
+    "keywords": [
       "customize quote",
       "change design",
       "quote style",
@@ -815,12 +819,13 @@
       "স্টাইল পরিবর্তন",
       "ফন্ট ডিজাইন",
       "ডিজাইন কাস্টমাইজ"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "Why is search not working?",
     "missing_reason": "Low-priority support query.",
-    "suggested_keywords": [
+    "keywords": [
       "search not working",
       "cannot search",
       "search issue",
@@ -829,12 +834,13 @@
       "খুঁজে পাচ্ছি না",
       "সার্চ সমস্যা",
       "সার্চ হচ্ছে না"
-    ]
+    ],
+    "type": "faq" 
   },
   {
     "q_en": "Is my data safe?",
     "missing_reason": "Skipped for compactness.",
-    "suggested_keywords": [
+    "keywords": [
       "data safe",
       "privacy",
       "secure data",
@@ -843,12 +849,13 @@
       "প্রাইভেসি",
       "ডেটা সেফ",
       "তথ্য নিরাপদ"
-    ]
+    ],
+    "type": "faq" 
   },
   {
     "q_en": "Will I lose data if I uninstall the app?",
     "missing_reason": "Skipped for compactness.",
-    "suggested_keywords": [
+    "keywords": [
       "uninstall data",
       "lose data",
       "delete app data",
@@ -857,12 +864,13 @@
       "ডেটা মুছে যাবে",
       "ডেটা হারাবে",
       "অ্যাপ ডিলিট করলে"
-    ]
+    ],
+    "type": "faq" 
   },
   {
     "q_en": "How to update the app?",
     "missing_reason": "Skipped for compactness.",
-    "suggested_keywords": [
+    "keywords": [
       "update app",
       "new version",
       "app update",
@@ -871,12 +879,13 @@
       "নতুন ভার্সন",
       "আপডেট করবো",
       "প্লে স্টোর আপডেট"
-    ]
+    ],
+    "type": "faq" 
   },
   {
     "q_en": "Why is app slow?",
     "missing_reason": "Skipped for compactness.",
-    "suggested_keywords": [
+    "keywords": [
       "app slow",
       "lagging",
       "slow loading",
@@ -885,36 +894,39 @@
       "ল্যাগ করছে",
       "ধীরে চলছে",
       "অ্যাপ হ্যাং"
-    ]
+    ],
+    "type": "faq" 
   },
   {
     "q_en": "What are you doing?",
     "missing_reason": "Low-priority casual chat.",
-    "suggested_keywords": [
+    "keywords": [
       "what are you doing",
       "doing now",
       "busy",
       "কি করছো",
       "এখন কি করছো",
       "ব্যস্ত"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "Do you like poetry?",
     "missing_reason": "Similar to 'I love poetry' entry.",
-    "suggested_keywords": [
+    "keywords": [
       "do you like poetry",
       "like poems",
       "poetry lover",
       "কবিতা পছন্দ",
       "তুমি কবিতা ভালোবাসো",
       "কবিতা ভালো লাগে"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "Tell me something beautiful",
     "missing_reason": "Optional emotional chat item.",
-    "suggested_keywords": [
+    "keywords": [
       "say something beautiful",
       "beautiful lines",
       "beautiful quote",
@@ -923,12 +935,13 @@
       "ভালো কিছু বলো",
       "সুন্দর লাইন",
       "মিষ্টি কথা"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "You are cute",
     "missing_reason": "Optional casual chat item.",
-    "suggested_keywords": [
+    "keywords": [
       "you are cute",
       "cute",
       "beautiful",
@@ -937,12 +950,13 @@
       "তুমি কিউট",
       "অনেক সুন্দর",
       "কিউট"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "I feel lonely",
     "missing_reason": "Optional emotional chat item.",
-    "suggested_keywords": [
+    "keywords": [
       "lonely",
       "alone",
       "feeling alone",
@@ -951,12 +965,13 @@
       "আমি একা",
       "একাকী",
       "একলা লাগছে"
-    ]
+    ],
+    "type": "chat" 
   },
   {
     "q_en": "I miss someone",
     "missing_reason": "Optional emotional chat item.",
-    "suggested_keywords": [
+    "keywords": [
       "miss someone",
       "missing someone",
       "i miss her",
@@ -965,6 +980,7 @@
       "মিস করছি",
       "অনেক মনে পড়ছে",
       "কারো কথা মনে পড়ছে"
-    ]
+    ],
+    "type": "chat" 
   }
 ]
