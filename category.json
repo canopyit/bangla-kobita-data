@@ -48,6 +48,70 @@
     "isnabin": false
   },
   {
+    "name": "tarapada roy",
+    "label": "তারাপদ রায়",
+    "data_lable": "tarapada%20roy",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdOxpDxJM80c_ukKFaAyHlp-GYJHRYJnKDwFLIzxROfekOpjbgmnoEr65TJ7m2a6nK-tjplkZ-PdqNHj8ULMMEC_fTF3suCkxJzUjOUx3pn4VWW870GCSR4Uh1jklwWwh64Spjy9g6nLsLsFTxbshZEOhX9oaRwPoQDOHeYSvhZIu1Pspw7exjvBkSVlwX/s1600/TarapadaRoyPic.jpg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+
+  {
+    "name": "mallika sengupta",
+    "label": "মল্লিকা সেনগুপ্ত",
+    "data_lable": "mallika%20sengupta",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-xRYyc9WDtgEOMrRMlisxH1VBt5kr_YtbejE4Kxe3TlmYVr88NpG3sevT1d68czX3CwAfc8SpY4eQXdAdAwA1WCkR1qGn-vIzwok4grUu6AmC1owpdIcXcGHWlAQiQQzqrS1rEESdnR9GNISdk1QNjY6yRT_e5cwl2gt6_Gd_wnhrJdMIo6DGlUtNb-t/s1600/MallikaSenguptaPic.jpg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+
+  {
+    "name": "rudra muhammad shahidullah",
+    "label": "রুদ্র মুহম্মদ শহিদুল্লাহ",
+    "data_lable": "rudra%20muhammad%20shahidullah",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZm5VR-NN9X1om73hReSn40hefKd5xHHpo0cOUMNrxLnwJ1vJBJjysiXFw9eqZSKRmVk7fC2TC3Trx5jbqST6RKGwg9aQbZBFDRIfwa1LyzArRniwrzs5IbNRDmh3VdsRbZNaXgOv7e7pHZ4jM2oV7miC0KYOR6WfMsUSUVOFmK2FyXxoijg89n33jqXn/s1600/Rudra_Muhammad_Shahidullah.jpeg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+
+  {
+    "name": "shankha ghosh",
+    "label": "শঙ্খ ঘোষ",
+    "data_lable": "shankha%20ghosh",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65ilXCHfuFedA5Hsch-fwVfKr6YubBAnJdDDcbw1voXlmuydkevSwVGjXo6g7nAXkruFYfK6H1p0wgZHe8szKfttc4yBC8kZA10iskt94F77UuF0ztxFoOm_yQ4mUwtzIyDDMywOkFWU10IfRvOcFwk62S9IrZBMHiAsHSYwKf1FnD-oAXGnKrqcAXsJN/s1600/Shankha%20Ghosh.jpeg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+
+  {
+    "name": "shakti chatterjee",
+    "label": "শক্তি চট্টোপাধ্যায়",
+    "data_lable": "shakti%20chatterjee",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtL5LcDlbO7ybTdlB7UkLLJgrlkzGG-k9zVhIeYAgL7n3JCp9evW4VL6MHrLCmkOx37jvxf_B37_dvXqTZXdh4JNPSHhrMX920-jpmFjq3T0Gj7EI4ay2hYXplneo-vw9FrPuDHCgjp39bdkFEdp5EF60geMTJVBPefrwBL4FRp1iOKid-5-YwcpYKAB5T/s1600/Shakti%20Chatterjee.jpeg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
+  },
+  {
   "name": "subodh sarkar",
   "label": "সুবোধ সরকার",
   "data_lable": "subodh%20sarkar",
