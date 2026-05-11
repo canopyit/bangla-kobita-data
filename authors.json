@@ -44,6 +44,235 @@
     "total_posts": 120
   },
   {
+    "id": "tarapada_roy",
+
+    "name": "Tarapada Roy",
+    "name_bn": "তারাপদ রায়",
+
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTo462bYD64lBUvZeIS5mtnhzHOFIcThdJ0_B5SCzbA6e2XvN24UYfHqvy_vfR3r9h7EPZNxu6Zdx_NcdeYakK4wvOOiSS95kWURskS2FrEWikYsgDl3kXl3Pmzd0FQ0Vr152sOpZSvWpQnddO1h2iLxfkEJ6IQNEp0u28gNoxV9AKbr9vU7Rotlj6OHM/s320/tarapada_roy.jpg",
+
+    "birth": "1936",
+    "birth_date": "1936-11-17",
+    "death": "2007",
+
+    "bio_en": "Tarapada Roy was a celebrated Bengali poet, writer, and humorist known for his witty language, satire, and emotional depth. His poetry combined simplicity with profound social observations, making him immensely popular among Bengali readers. He wrote extensively on everyday life, love, loneliness, and human emotions with a unique humorous touch.",
+
+    "bio_bn": "তারাপদ রায় ছিলেন একজন জনপ্রিয় বাংলা কবি, সাহিত্যিক ও রম্যরচয়িতা। তাঁর কবিতায় হাস্যরস, ব্যঙ্গ এবং গভীর মানবিক অনুভূতির এক অনন্য মিশ্রণ দেখা যায়। সাধারণ মানুষের জীবন, প্রেম, নিঃসঙ্গতা ও সমাজের নানা দিক তিনি সহজ অথচ হৃদয়স্পর্শী ভাষায় তুলে ধরেছেন।",
+
+    "tags": ["poet", "humorist", "writer"],
+
+    "famous_works_en": [
+      "Kandte Kandte",
+      "Tomar Pratima",
+      "Bhalobashar Kabita",
+      "Kichhu Smriti Kichhu Kotha",
+      "Ekjon Tarapada"
+    ],
+
+    "famous_works_bn": [
+      "কাঁদতে কাঁদতে",
+      "তোমার প্রতিমা",
+      "ভালোবাসার কবিতা",
+      "কিছু স্মৃতি কিছু কথা",
+      "একজন তারাপদ"
+    ],
+
+    "labels": [
+      "tarapada%20roy",
+      "tarapada",
+      "roy",
+      "tarapada roy"
+    ],
+
+    "categories": ["top10", "prabin"],
+
+    "total_posts": 35
+  },
+
+  {
+    "id": "mallika_sengupta",
+
+    "name": "Mallika Sengupta",
+    "name_bn": "মল্লিকা সেনগুপ্ত",
+
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-xRYyc9WDtgEOMrRMlisxH1VBt5kr_YtbejE4Kxe3TlmYVr88NpG3sevT1d68czX3CwAfc8SpY4eQXdAdAwA1WCkR1qGn-vIzwok4grUu6AmC1owpdIcXcGHWlAQiQQzqrS1rEESdnR9GNISdk1QNjY6yRT_e5cwl2gt6_Gd_wnhrJdMIo6DGlUtNb-t/s1600/MallikaSenguptaPic.jpg",
+
+    "birth": "1960",
+    "birth_date": "1960-10-18",
+    "death": "2011",
+
+    "bio_en": "Mallika Sengupta was a renowned Bengali poet and feminist writer whose works focused on women’s identity, social injustice, mythology, and resistance. Her bold poetic voice and modern feminist perspective made her one of the most influential Bengali women poets of contemporary literature.",
+
+    "bio_bn": "মল্লিকা সেনগুপ্ত ছিলেন একজন বিশিষ্ট বাংলা কবি ও নারীবাদী সাহিত্যিক। তাঁর কবিতায় নারীস্বাধীনতা, সামাজিক বৈষম্য, প্রতিবাদ এবং পৌরাণিক ভাবনার আধুনিক ব্যাখ্যা বিশেষভাবে ফুটে উঠেছে। সমকালীন বাংলা সাহিত্যে তিনি অন্যতম শক্তিশালী নারী কণ্ঠস্বর হিসেবে পরিচিত।",
+
+    "tags": ["poet", "feminist writer", "writer"],
+
+    "famous_works_en": [
+      "Kathamanabi",
+      "Ami Sindhur Meye",
+      "Haghore Debdasi",
+      "Chollish Chander Ayu",
+      "Prithibir Ma"
+    ],
+
+    "famous_works_bn": [
+      "কথামানবী",
+      "আমি সিন্ধুর মেয়ে",
+      "হাঘরে দেবদাসী",
+      "চল্লিশ চাঁদের আয়ু",
+      "পৃথিবীর মা"
+    ],
+
+    "labels": [
+      "mallika%20sengupta",
+      "mallika",
+      "sengupta",
+      "mallika sengupta"
+    ],
+
+    "categories": ["top10", "prabin"],
+
+    "total_posts": 30
+  },
+
+  {
+    "id": "rudra_muhammad_shahidullah",
+
+    "name": "Rudra Muhammad Shahidullah",
+    "name_bn": "রুদ্র মুহম্মদ শহিদুল্লাহ",
+
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZm5VR-NN9X1om73hReSn40hefKd5xHHpo0cOUMNrxLnwJ1vJBJjysiXFw9eqZSKRmVk7fC2TC3Trx5jbqST6RKGwg9aQbZBFDRIfwa1LyzArRniwrzs5IbNRDmh3VdsRbZNaXgOv7e7pHZ4jM2oV7miC0KYOR6WfMsUSUVOFmK2FyXxoijg89n33jqXn/s1600/Rudra_Muhammad_Shahidullah.jpeg",
+
+    "birth": "1956",
+    "birth_date": "1956-10-16",
+    "death": "1991",
+
+    "bio_en": "Rudra Muhammad Shahidullah was a legendary Bangladeshi poet known for his rebellious spirit, romanticism, and revolutionary poetry. His writings reflected love, pain, patriotism, and protest against injustice. He became a symbol of youth emotion and resistance in Bengali literature.",
+
+    "bio_bn": "রুদ্র মুহম্মদ শহিদুল্লাহ ছিলেন বাংলাদেশের এক কিংবদন্তি কবি। প্রেম, বিদ্রোহ, দেশপ্রেম এবং সামাজিক প্রতিবাদের শক্তিশালী প্রকাশ তাঁর কবিতার প্রধান বৈশিষ্ট্য। তাঁর কবিতা তরুণ সমাজের আবেগ ও প্রতিবাদের প্রতীক হয়ে উঠেছিল।",
+
+    "tags": ["poet", "revolutionary poet", "writer"],
+
+    "famous_works_en": [
+      "Bhalo Achi Bhalo Theko",
+      "Upadruto Upakul",
+      "Manusher Manchitra",
+      "Chhobal",
+      "Golpo"
+    ],
+
+    "famous_works_bn": [
+      "ভালো আছি ভালো থেকো",
+      "উপদ্রুত উপকূল",
+      "মানুষের মানচিত্র",
+      "ছোবল",
+      "গল্প"
+    ],
+
+    "labels": [
+      "rudra%20muhammad%20shahidullah",
+      "rudra",
+      "shahidullah",
+      "rudra muhammad shahidullah"
+    ],
+
+    "categories": ["top10", "prabin"],
+
+    "total_posts": 45
+  },
+
+  {
+    "id": "shankha_ghosh",
+
+    "name": "Shankha Ghosh",
+    "name_bn": "শঙ্খ ঘোষ",
+
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH-bnx6HlqfDHZDMrv70Ch-7lCsJF2E37T-9HsBG_qIYJFRmeh-apHzHb6E4NJTyJMnziSqSQyE_G6RYkH_Q93A-7epFlUKcI7tMaiBFDxLr6c-Mgmz6n5tN-tXyLyrl2so3gabrRpVjFPHvf2MiHUSYytUEEzwBRJO7rgXT3-UBX-wcv-mRPS3xQKkMDo/s320/ShankhaGhosh.jpg",
+
+    "birth": "1932",
+    "birth_date": "1932-02-05",
+    "death": "2021",
+
+    "bio_en": "Shankha Ghosh was one of the greatest modern Bengali poets, respected for his intellectual depth, lyrical beauty, and social consciousness. His poetry explored human suffering, morality, politics, and the complexities of modern life with elegance and sensitivity.",
+
+    "bio_bn": "শঙ্খ ঘোষ ছিলেন আধুনিক বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ কবি। তাঁর কবিতায় মানবিক বেদনা, নৈতিকতা, সমাজচেতনা এবং আধুনিক জীবনের জটিলতা অত্যন্ত সংবেদনশীলভাবে প্রকাশ পেয়েছে। তিনি বাংলা কবিতায় এক গভীর মননশীল কণ্ঠস্বর।",
+
+    "tags": ["poet", "critic", "writer"],
+
+    "famous_works_en": [
+      "Murkha Baro Samajik Noy",
+      "Din Guli Rat Guli",
+      "Babarer Prarthana",
+      "Adim Lata Gulmomoy",
+      "Nihito Patalchhaya"
+    ],
+
+    "famous_works_bn": [
+      "মূর্খ বড়ো সামাজিক নয়",
+      "দিনগুলি রাতগুলি",
+      "বাবরের প্রার্থনা",
+      "আদিম লতা গুল্মময়",
+      "নিহিত পাতালছায়া"
+    ],
+
+    "labels": [
+      "shankha%20ghosh",
+      "shankha",
+      "ghosh",
+      "shankha ghosh"
+    ],
+
+    "categories": ["top10", "prabin"],
+
+    "total_posts": 50
+  },
+
+  {
+    "id": "shakti_chatterjee",
+
+    "name": "Shakti Chatterjee",
+    "name_bn": "শক্তি চট্টোপাধ্যায়",
+
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXbeyRX47bxdISW7othODglyNgv11HbwC8LS_-bX5h_L5rQG0I3MddmYuCQurlU99h6EzmkfYQu9ucjrwYf-_EirNPiym8esBeZ6FR3xQK6QeCzic0eQUyyM9ElDkxZd5Gcs7E79u5eD_JI_R_HcBuzzI52aHmstJeIfkLNdvpW-qQF0ytJ-RqdBGWMN8z/s320/Shakti_Chatterjee.jpg",
+
+    "birth": "1933",
+    "birth_date": "1933-11-25",
+    "death": "1995",
+
+    "bio_en": "Shakti Chatterjee was a revolutionary Bengali poet associated with the Hungry Generation movement. His poetry blended romanticism, nature, loneliness, existentialism, and modern urban emotions. He remains one of the most beloved modern Bengali poets.",
+
+    "bio_bn": "শক্তি চট্টোপাধ্যায় ছিলেন আধুনিক বাংলা কবিতার এক বিপ্লবী কবি এবং হাংরি জেনারেশন আন্দোলনের গুরুত্বপূর্ণ সদস্য। তাঁর কবিতায় প্রকৃতি, প্রেম, নিঃসঙ্গতা, অস্তিত্ববাদ এবং আধুনিক শহুরে জীবনের আবেগ গভীরভাবে প্রকাশ পেয়েছে। তিনি বাংলা সাহিত্যের অন্যতম জনপ্রিয় আধুনিক কবি।",
+
+    "tags": ["poet", "modern poet", "writer"],
+
+    "famous_works_en": [
+      "Jete Pari Kintu Keno Jabo",
+      "He Prem He Naishabda",
+      "Sonar Machhi Khun Korechi",
+      "Dhorme Acho Jirafeo Acho",
+      "Abani Bari Acho"
+    ],
+
+    "famous_works_bn": [
+      "যেতে পারি কিন্তু কেন যাব",
+      "হে প্রেম হে নৈঃশব্দ্য",
+      "সোনার মাছি খুন করেছি",
+      "ধর্মে আছো জিরাফেও আছো",
+      "অবনী বাড়ি আছো"
+    ],
+
+    "labels": [
+      "shakti%20chatterjee",
+      "shakti",
+      "chatterjee",
+      "shakti chatterjee"
+    ],
+
+    "categories": ["top10", "prabin"],
+
+    "total_posts": 55
+  },
+  {
   "id": "subodh_sarkar",
 
   "name": "Subodh Sarkar",
