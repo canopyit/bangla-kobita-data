@@ -40,8 +40,11 @@
     ],
 
     "categories": ["top10", "prabin"],
-
-    "total_posts": 120
+    "total_posts": 120,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of World's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
   {
     "id": "tarapada_roy",
@@ -86,7 +89,11 @@
 
     "categories": ["top10", "prabin"],
 
-    "total_posts": 35
+    "total_posts": 35,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
 
   {
@@ -132,7 +139,11 @@
 
     "categories": ["top10", "prabin"],
 
-    "total_posts": 30
+    "total_posts": 30,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
 
   {
@@ -178,7 +189,11 @@
 
     "categories": ["top10", "prabin"],
 
-    "total_posts": 45
+    "total_posts": 45,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
 
   {
@@ -224,7 +239,11 @@
 
     "categories": ["top10", "prabin"],
 
-    "total_posts": 50
+    "total_posts": 50,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
 
   {
@@ -270,7 +289,11 @@
 
     "categories": ["top10", "prabin"],
 
-    "total_posts": 55
+    "total_posts": 55,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
   {
   "id": "subodh_sarkar",
@@ -315,7 +338,11 @@
 
   "categories": ["top10", "prabin"],
 
-  "total_posts": 40
+  "total_posts": 40,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
 },
   {
   "id": "sadat_hossain",
@@ -372,10 +399,15 @@
   "categories": [
     "top10",
     "modern",
-    "popular"
+    "popular",
+    "nabin"
   ],
 
-  "total_posts": 45
+  "total_posts": 45,
+  "subtitle_en": "Emerging Writer",
+  "subtitle_bn": "নবীন লেখক",
+  "tagline_en": "A promising voice in modern Bengali poetry",
+  "tagline_bn": "আধুনিক বাংলা কবিতার এক সম্ভাবনাময় কণ্ঠ"
 },
   {
     "id": "jasimuddin",
@@ -427,7 +459,11 @@
       "prabin"
     ],
 
-    "total_posts": 85
+    "total_posts": 85,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
   {
     "id": "jibanananda_das",
@@ -479,7 +515,11 @@
       "prabin"
     ],
 
-    "total_posts": 72
+    "total_posts": 72,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
   {
     "id": "taslima_nasrin",
@@ -529,10 +569,14 @@
 
     "categories": [
       "top10",
-      "nabin"
+      "prabin"
     ],
 
-    "total_posts": 48
+    "total_posts": 48,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
   {
     "id": "joy_goswami",
@@ -581,10 +625,14 @@
 
     "categories": [
       "top10",
-      "nabin"
+      "prabin"
     ],
 
-    "total_posts": 58
+    "total_posts": 58,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
   {
   "id": "kazi_nazrul_islam",
@@ -634,10 +682,15 @@
 
   "categories": [
     "top10",
-    "legend"
+    "legend",
+    "prabin"
   ],
 
-  "total_posts": 140
+  "total_posts": 140,
+    "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
 },
   {
   "id": "al_mahmud",
@@ -686,10 +739,15 @@
 
   "categories": [
     "top10",
-    "modern"
+    "modern",
+    "prabin"
   ],
 
-  "total_posts": 95
+  "total_posts": 95,
+  "subtitle_en": "Legendary Bengali Poet",
+    "subtitle_bn": "বিশ্বকবি",
+    "tagline_en": "One of Bengal's greatest literary minds",
+    "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
 },
     {
   "id": "sukanta_bhattacharya",
@@ -738,10 +796,15 @@
 
   "categories": [
     "top10",
-    "revolutionary"
+    "revolutionary",
+    "prabin"
   ],
 
-  "total_posts": 85
+  "total_posts": 85,
+  "subtitle_en": "Legendary Bengali Poet",
+  "subtitle_bn": "বিশ্বকবি",
+  "tagline_en": "One of Bengal's greatest literary minds",
+  "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
 },
     {
   "id": "aranyak_basu",
@@ -790,10 +853,15 @@
 
   "categories": [
     "modern",
-    "contemporary"
+    "contemporary",
+    "prabin"
   ],
 
-  "total_posts": 45
+  "total_posts": 45,
+  "subtitle_en": "Legendary Bengali Poet",
+  "subtitle_bn": "বিশ্বকবি",
+  "tagline_en": "One of Bengal's greatest literary minds",
+  "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
 },
     {
   "id": "kashiram_das",
@@ -841,9 +909,14 @@
 
   "categories": [
     "medieval",
-    "classic"
+    "classic",
+    "prabin"
   ],
 
-  "total_posts": 40
+  "total_posts": 40,
+      "subtitle_en": "Legendary Bengali Poet",
+  "subtitle_bn": "বিশ্বকবি",
+  "tagline_en": "One of Bengal's greatest literary minds",
+  "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
 }
 ]
