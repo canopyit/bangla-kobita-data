@@ -45,6 +45,51 @@
     "tagline_bn": "বাংলা সাহিত্যের অন্যতম শ্রেষ্ঠ ব্যক্তিত্ব"
   },
   {
+    "id": "sunil_gangopadhyay",
+    "name": "Sunil Gangopadhyay",
+    "name_bn": "সুনীল গঙ্গোপাধ্যায়",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqjN900RTQUZtyUtHRIpZArmNGa2FxCave2pmSQoOrOZA0s-_Kpw-7DYjcjtT9t7jEC1urmGtKDmHS7whyXZijxsDk1T-Ri2Z5s23VTHXxNuoboIBEROg9TRWV1grTRvOgx6ad20IMHA5jhdro3Zeqk-JMpeVB5e_uWEbGnE9ctG1ou9hPmVxnCqkEOU88/s320/1725677753_edit4.jpg",
+    "birth": "1934",
+    "birth_date": "1934-09-07",
+    "death": "2012",
+    "bio_en": "Sunil Gangopadhyay (1934–2012) was one of the most influential Bengali poets, novelists, and literary figures of modern India. Born in Faridpur, Bengal Presidency (now in Bangladesh), he later moved to Kolkata, where he became a leading voice in post-independence Bengali literature. He was one of the founders of the influential literary magazine Krittibas, which shaped a new generation of Bengali poetry. Sunil wrote extensively across genres, including poetry, novels, short stories, travelogues, and children's literature. His historical novels, especially Sei Somoy and Prothom Alo, received widespread acclaim for their rich portrayal of Bengal's social and cultural history. He also created the popular fictional character Kakababu, beloved by generations of young readers. His literary works explored love, identity, freedom, urban life, and human relationships. Throughout his career, he received numerous honors, including the Sahitya Akademi Award and the Saraswati Samman. Sunil Gangopadhyay remains one of the most celebrated figures in Bengali literature.",
+    "bio_bn": "সুনীল গঙ্গোপাধ্যায় (১৯৩৪–২০১২) ছিলেন আধুনিক বাংলা সাহিত্যের অন্যতম প্রভাবশালী কবি, ঔপন্যাসিক এবং সাহিত্যিক। তিনি তৎকালীন বাংলার ফরিদপুরে (বর্তমান বাংলাদেশ) জন্মগ্রহণ করেন এবং পরবর্তীতে কলকাতায় বসবাস শুরু করেন। তিনি 'কৃত্তিবাস' পত্রিকার অন্যতম প্রতিষ্ঠাতা ছিলেন, যা বাংলা কবিতার নতুন ধারার সূচনা করেছিল। কবিতা, উপন্যাস, ছোটগল্প, ভ্রমণকাহিনি এবং শিশু সাহিত্য—সব ক্ষেত্রেই তাঁর অসামান্য অবদান রয়েছে। তাঁর ঐতিহাসিক উপন্যাস ‘সেই সময়’ ও ‘প্রথম আলো’ বাংলা সাহিত্যে বিশেষ মর্যাদা লাভ করেছে। তিনি জনপ্রিয় চরিত্র ‘কাকাবাবু’-এর স্রষ্টা, যা শিশু-কিশোরদের কাছে অত্যন্ত জনপ্রিয়। প্রেম, স্বাধীনতা, শহুরে জীবন এবং মানুষের অন্তর্গত অনুভূতি তাঁর লেখার প্রধান বিষয়। সাহিত্য আকাদেমি পুরস্কার ও সরস্বতী সম্মানসহ বহু পুরস্কারে তিনি সম্মানিত হন। বাংলা সাহিত্যে তাঁর অবদান আজও সমানভাবে প্রাসঙ্গিক ও শ্রদ্ধেয়।",
+    "tags": [
+      "poet",
+      "novelist",
+      "krittibas"
+    ],
+    "famous_works_en": [
+      "Sei Somoy",
+      "Prothom Alo",
+      "Aranyer Din Ratri",
+      "Purbo-Paschim",
+      "Kakababu Series"
+    ],
+    "famous_works_bn": [
+      "সেই সময়",
+      "প্রথম আলো",
+      "অরণ্যের দিনরাত্রি",
+      "পূর্ব-পশ্চিম",
+      "কাকাবাবু সিরিজ"
+    ],
+    "labels": [
+      "sunil gangopadhyay",
+      "sunil",
+      "sunil ganguly",
+      "sunil_gangopadhyay"
+    ],
+    "categories": [
+      "top10",
+      "prabin"
+    ],
+    "total_posts": 95,
+    "subtitle_en": "Renowned Bengali Poet & Novelist",
+    "subtitle_bn": "প্রখ্যাত কবি ও ঔপন্যাসিক",
+    "tagline_en": "A defining voice of modern Bengali literature",
+    "tagline_bn": "আধুনিক বাংলা সাহিত্যের এক উজ্জ্বল নক্ষত্র"
+  },
+  {
     "id": "tarapada_roy",
     "name": "Tarapada Roy",
     "name_bn": "তারাপদ রায়",
