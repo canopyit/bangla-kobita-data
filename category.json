@@ -350,5 +350,17 @@
     "ismood": false,
     "isfestival": false,
     "isnabin": false
+  },
+  {
+    "name": "sunil gangopadhyay",
+    "label": "সুনীল গঙ্গোপাধ্যায়",
+    "data_lable": "sunil%20gangopadhyay",        
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqjN900RTQUZtyUtHRIpZArmNGa2FxCave2pmSQoOrOZA0s-_Kpw-7DYjcjtT9t7jEC1urmGtKDmHS7whyXZijxsDk1T-Ri2Z5s23VTHXxNuoboIBEROg9TRWV1grTRvOgx6ad20IMHA5jhdro3Zeqk-JMpeVB5e_uWEbGnE9ctG1ou9hPmVxnCqkEOU88/s320/1725677753_edit4.jpg",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
   }
 ]
