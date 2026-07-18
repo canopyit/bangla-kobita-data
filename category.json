@@ -362,5 +362,17 @@
     "ismood": false,
     "isfestival": false,
     "isnabin": false
+  },
+  {
+    "name": "michael madhusudan dutt",
+    "label": "মাইকেল মধুসূদন দত্ত",
+    "data_lable": "michael%20madhusudan%20dutt",        
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOm5PegH2gHE3cNKXiXzD4OaxuMxFW9m97sYGgysfHhCQ2TrOypGW1awG4qEUs_vXbUgwzy402rWhp3dTQdRPH9ys5moU6wM5xg_0KDfh-IKwmOhlt5AccdSFLehbH2xoP1eUpa86dKwcxiMJL1BDI5YYNNB14Cp-qlVuRwuuQrJKY-MkwT_LJzr2UGhda/s320/Michael-Madhusudan-Dutt-Pioneering-the-Bengali-Sonnet-poet-and-playwright-Meghchil-Biography.webp",
+    "type": "home",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": false
   }
 ]
