@@ -992,6 +992,7 @@
     ],
     "labels": [
       "purnendu patri",
+      "purnendu%20patri",
       "purnendu",
       "patri",
       "purnendu_patri"
@@ -1031,7 +1032,8 @@
     "adam",
     "fakir",
     "adam_fakir",
-    "Adam fakir"
+    "Adam fakir",
+    "Adam%20fakir"
   ],
   "categories": [
     "nabin"
