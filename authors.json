@@ -960,5 +960,83 @@
   "subtitle_bn": "আধুনিক বাংলা কাব্যের পথিকৃৎ",
   "tagline_en": "The Father of Bengali Blank Verse",
   "tagline_bn": "বাংলা অমিত্রাক্ষর ছন্দের প্রবর্তক"
+},
+  {
+    "id": "purnendu_patri",
+    "name": "Purnendu Patri",
+    "name_bn": "পূর্ণেন্দু পত্রী",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5k0LKsAHSzwH0mcUOGGhziadd_5x9fnuuWS49PrSQWCGhb4M2vAPOqmqj3mKRwx8kdEbCpT4WSQaVwMof75kyt66olq0goNyydQw71A7gxk-VUZNdRTGIRGFYFdEfXIR6RLsoMF5eMWIYI07VVeocI0dRbUj7xcJAMXbmTUJGGpmRN8VnHZEPYk4lbE4/s320/purnendu-patri-4615e1e1-bea4-4120-bdc8-83ae760d14a-resize-750.jpeg",
+    "birth": "1931",
+    "birth_date": "1931-09-02",
+    "death": "1997",
+    "bio_en": "Purnendu Patri (1931–1997) was a distinguished Bengali poet, writer, illustrator, painter, filmmaker, and editor. Born in Howrah, West Bengal, he was one of the most versatile creative personalities in Bengali culture. His literary works combined modernist sensibilities with deep social awareness and artistic experimentation. Apart from poetry and fiction, he made significant contributions to children's literature and book illustration. His unique visual style enriched Bengali publishing and magazine culture for decades. Purnendu Patri also worked in cinema and journalism, demonstrating remarkable versatility across artistic disciplines. He received the Rabindra Puraskar and several other literary honors. His legacy remains significant in both Bengali literature and visual arts.",
+    "bio_bn": "পূর্ণেন্দু পত্রী (১৯৩১–১৯৯৭) ছিলেন বাংলা সাহিত্যের একজন বিশিষ্ট কবি, লেখক, চিত্রশিল্পী, অলংকরণশিল্পী, চলচ্চিত্র নির্মাতা ও সম্পাদক। পশ্চিমবঙ্গের হাওড়ায় জন্মগ্রহণকারী এই বহুমুখী প্রতিভা বাংলা সংস্কৃতিতে এক অনন্য স্থান অধিকার করে আছেন। তাঁর সাহিত্যকর্মে আধুনিকতা, সামাজিক সচেতনতা এবং সৃজনশীল পরীক্ষার এক চমৎকার সমন্বয় দেখা যায়। কবিতা ও কথাসাহিত্যের পাশাপাশি শিশু সাহিত্য এবং বইয়ের অলংকরণেও তাঁর বিশেষ অবদান রয়েছে। তাঁর স্বতন্ত্র চিত্রভাষা বাংলা প্রকাশনা জগতকে সমৃদ্ধ করেছে। সাহিত্য, সাংবাদিকতা ও চলচ্চিত্র—সব ক্ষেত্রেই তিনি তাঁর প্রতিভার স্বাক্ষর রেখেছেন। রবীন্দ্র পুরস্কারসহ বহু সম্মানে তিনি ভূষিত হন। বাংলা সাহিত্য ও শিল্পকলায় তাঁর অবদান আজও গভীরভাবে স্মরণীয়।",
+    "tags": [
+      "poet",
+      "artist",
+      "illustrator"
+    ],
+    "famous_works_en": [
+      "Maleria",
+      "Iblisher Atmakatha",
+      "Jodi Hoy Sujon",
+      "Chotoder Golpo",
+      "Selected Poems"
+    ],
+    "famous_works_bn": [
+      "মালেরিয়া",
+      "ইবলিশের আত্মকথা",
+      "যদি হয় সুজন",
+      "ছোটদের গল্প",
+      "নির্বাচিত কবিতা"
+    ],
+    "labels": [
+      "purnendu patri",
+      "purnendu",
+      "patri",
+      "purnendu_patri"
+    ],
+    "categories": [
+      "top10",
+      "prabin"
+    ],
+    "total_posts": 65,
+    "subtitle_en": "Poet, Artist & Illustrator",
+    "subtitle_bn": "কবি, শিল্পী ও অলংকরণশিল্পী",
+    "tagline_en": "A rare blend of literature and visual art",
+    "tagline_bn": "সাহিত্য ও শিল্পকলার এক অনন্য সংমিশ্রণ"
+  },
+  
+{
+  "id": "adam_fakir",
+  "name": "Adam Fakir",
+  "name_bn": "আদম ফকির",
+  "image": "",
+  "birth": "",
+  "birth_date": "",
+  "death": "",
+  "bio_en": "Adam Fakir is a Bengali poet featured in the Bangla Kobita collection. He is represented in the app through his poem 'Adamer Bilap' (আদমের বিলাপ). Although only one of his poems is currently included in this collection, his work has been preserved for readers to discover and appreciate.",
+  "bio_bn": "আদম ফকির বাংলা কবিতার একজন কবি, যাঁর রচনা বাংলা কবিতা অ্যাপে সংরক্ষিত রয়েছে। বর্তমানে এই অ্যাপে তাঁর 'আদমের বিলাপ' কবিতাটি অন্তর্ভুক্ত করা হয়েছে। তাঁর এই কবিতার মাধ্যমে পাঠকরা তাঁর সাহিত্যভাবনা ও সৃষ্টির সঙ্গে পরিচিত হওয়ার সুযোগ পাবেন।",
+  "tags": [
+    "poet"
+  ],
+  "famous_works_en": [
+    "Adamer Bilap"
+  ],
+  "famous_works_bn": [
+    "আদমের বিলাপ"
+  ],
+  "labels": [
+    "adam fakir",
+    "adam",
+    "fakir",
+    "adam_fakir"
+  ],
+  "categories": [],
+  "total_posts": 1,
+  "subtitle_en": "Bengali Poet",
+  "subtitle_bn": "বাংলা কবি",
+  "tagline_en": "A poetic voice preserved in words",
+  "tagline_bn": "কবিতার পাতায় সংরক্ষিত এক কাব্যকণ্ঠ"
 }
 ]
