@@ -1032,7 +1032,9 @@
     "fakir",
     "adam_fakir"
   ],
-  "categories": [],
+  "categories": [
+    "nabin"
+  ],
   "total_posts": 1,
   "subtitle_en": "Bengali Poet",
   "subtitle_bn": "বাংলা কবি",
