@@ -374,5 +374,17 @@
     "ismood": false,
     "isfestival": false,
     "isnabin": false
+  },
+  {
+    "name": "adam fakir",
+    "label": "আদম ফকিরত",
+    "data_lable": "Adam%20fakir",        
+    "image": "",
+    "type": "explore",
+    "isbanner": false,
+    "iswriter": true,
+    "ismood": false,
+    "isfestival": false,
+    "isnabin": true
   }
 ]
